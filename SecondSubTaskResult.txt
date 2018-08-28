@@ -1,0 +1,2 @@
+Maximum value of childs_count column:144
+Minimum value of childs_count column:0

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Challenge\Challenge\obj\Debug\Challenge.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Challenge\Challenge\obj\Debug\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Challenge\Challenge\bin\Debug\Challenge.exe.config
+C:\Users\User\source\repos\Challenge\Challenge\bin\Debug\Challenge.exe
+C:\Users\User\source\repos\Challenge\Challenge\bin\Debug\Challenge.pdb
+C:\Users\User\source\repos\Challenge\Challenge\obj\Debug\Challenge.exe
+C:\Users\User\source\repos\Challenge\Challenge\obj\Debug\Challenge.pdb
