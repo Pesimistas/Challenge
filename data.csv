@@ -1,0 +1,1073 @@
+DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
+31;Aitvaras;3;Nuo 1,5 iki 3 metu;1;Lietuviu;33;0
+31;Aitvaras;6;Nuo 3 iki 4 metu;1;Lietuviu;30;0
+31;Aitvaras;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+31;Aitvaras;8;Nuo 5 iki 6 metu;1;Lietuviu;23;0
+31;Aitvaras;11;Nuo 5 iki 7 metu;1;Lietuviu;46;1
+31;Aitvaras;12;Nuo 2 iki 3 metu;1;Lietuviu;15;0
+31;Aitvaras;13;Nuo 4 iki 6 metu;1;Lietuviu;24;0
+31;Aitvaras;14;Nuo 3 iki 6 metu;1;Lietuviu;2;0
+31;Aitvaras;18;Nuo 2 iki 4 metu;1;Lietuviu;133;0
+31;Aitvaras;25;Nuo 1,5 iki 7 metu;1;Lietuviu;0;0
+32;Atzaleles;3;Nuo 1,5 iki 3 metu;1;Lietuviu;97;6
+32;Atzaleles;4;Nuo 3 iki 7 metu;1;Lietuviu;23;0
+32;Atzaleles;6;Nuo 3 iki 4 metu;1;Lietuviu;46;7
+32;Atzaleles;7;Nuo 4 iki 5 metu;1;Lietuviu;26;1
+32;Atzaleles;8;Nuo 5 iki 6 metu;1;Lietuviu;25;0
+32;Atzaleles;9;Nuo 6 iki 7 metu;1;Lietuviu;3;2
+32;Atzaleles;11;Nuo 5 iki 7 metu;1;Lietuviu;24;0
+32;Atzaleles;20;Nuo 2 iki 6 metu;1;Lietuviu;17;2
+32;Atzaleles;28;Nuo 1 iki 7 metu;1;Lietuviu;0;0
+33;Ausrele;3;Nuo 1,5 iki 3 metu;1;Lietuviu;82;0
+33;Ausrele;6;Nuo 3 iki 4 metu;1;Lietuviu;3;1
+33;Ausrele;7;Nuo 4 iki 5 metu;1;Lietuviu;54;0
+33;Ausrele;8;Nuo 5 iki 6 metu;1;Lietuviu;22;0
+33;Ausrele;9;Nuo 6 iki 7 metu;1;Lietuviu;1;0
+33;Ausrele;11;Nuo 5 iki 7 metu;1;Lietuviu;43;0
+33;Ausrele;12;Nuo 2 iki 3 metu;1;Lietuviu;4;0
+33;Ausrele;18;Nuo 2 iki 4 metu;1;Lietuviu;70;0
+34;Berzynelis;1;Iki 1,5 metu;1;Lietuviu;15;0
+34;Berzynelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;36;0
+34;Berzynelis;6;Nuo 3 iki 4 metu;1;Lietuviu;20;0
+34;Berzynelis;7;Nuo 4 iki 5 metu;1;Lietuviu;19;0
+34;Berzynelis;8;Nuo 5 iki 6 metu;1;Lietuviu;18;0
+34;Berzynelis;9;Nuo 6 iki 7 metu;1;Lietuviu;3;0
+34;Berzynelis;11;Nuo 5 iki 7 metu;1;Lietuviu;26;0
+34;Berzynelis;13;Nuo 4 iki 6 metu;1;Lietuviu;3;3
+36;Birutes;6;Nuo 3 iki 4 metu;1;Lietuviu;4;0
+36;Birutes;7;Nuo 4 iki 5 metu;1;Lietuviu;24;0
+36;Birutes;8;Nuo 5 iki 6 metu;1;Lietuviu;23;0
+36;Birutes;9;Nuo 6 iki 7 metu;1;Lietuviu;1;1
+36;Birutes;11;Nuo 5 iki 7 metu;1;Lietuviu;24;0
+36;Birutes;12;Nuo 2 iki 3 metu;1;Lietuviu;20;0
+36;Birutes;18;Nuo 2 iki 4 metu;1;Lietuviu;20;0
+37;Bitute;3;Nuo 1,5 iki 3 metu;1;Lietuviu;70;0
+37;Bitute;4;Nuo 3 iki 7 metu;1;Lietuviu;25;0
+37;Bitute;7;Nuo 4 iki 5 metu;1;Lietuviu;44;0
+37;Bitute;8;Nuo 5 iki 6 metu;1;Lietuviu;41;0
+37;Bitute;9;Nuo 6 iki 7 metu;1;Lietuviu;2;0
+37;Bitute;10;Nuo 3 iki 5 metu;1;Lietuviu;1;0
+37;Bitute;11;Nuo 5 iki 7 metu;1;Lietuviu;59;0
+37;Bitute;18;Nuo 2 iki 4 metu;1;Lietuviu;78;0
+37;Bitute;28;Nuo 1 iki 7 metu;1;Lietuviu;0;1
+39;Coliuke;3;Nuo 1,5 iki 3 metu;1;Lietuviu;19;0
+39;Coliuke;4;Nuo 3 iki 7 metu;1;Lietuviu;22;0
+39;Coliuke;17;Nuo 1 iki 2 metu;1;Lietuviu;12;12
+39;Coliuke;18;Nuo 2 iki 4 metu;1;Lietuviu;0;13
+40;Ciauskutis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;10;0
+40;Ciauskutis;6;Nuo 3 iki 4 metu;1;Lietuviu;19;0
+40;Ciauskutis;7;Nuo 4 iki 5 metu;1;Lietuviu;27;0
+40;Ciauskutis;8;Nuo 5 iki 6 metu;1;Lietuviu;20;0
+40;Ciauskutis;10;Nuo 3 iki 5 metu;1;Lietuviu;10;0
+40;Ciauskutis;11;Nuo 5 iki 7 metu;1;Lietuviu;43;0
+40;Ciauskutis;13;Nuo 4 iki 6 metu;1;Lietuviu;18;0
+41;Daigelis;13;Nuo 4 iki 6 metu;1;Lietuviu;20;0
+41;Daigelis;18;Nuo 2 iki 4 metu;1;Lietuviu;15;0
+44;Drevinukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;48;0
+44;Drevinukas;6;Nuo 3 iki 4 metu;1;Lietuviu;11;3
+44;Drevinukas;7;Nuo 4 iki 5 metu;1;Lietuviu;35;0
+44;Drevinukas;8;Nuo 5 iki 6 metu;1;Lietuviu;37;0
+44;Drevinukas;11;Nuo 5 iki 7 metu;1;Lietuviu;24;0
+44;Drevinukas;18;Nuo 2 iki 4 metu;1;Lietuviu;42;0
+44;Drevinukas;28;Nuo 1 iki 7 metu;1;Lietuviu;0;1
+45;Drugelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;53;0
+45;Drugelis;6;Nuo 3 iki 4 metu;1;Lietuviu;26;0
+45;Drugelis;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+45;Drugelis;8;Nuo 5 iki 6 metu;1;Lietuviu;25;0
+45;Drugelis;11;Nuo 5 iki 7 metu;1;Lietuviu;17;0
+46;Du gaideliai;3;Nuo 1,5 iki 3 metu;1;Lietuviu;35;21
+46;Du gaideliai;6;Nuo 3 iki 4 metu;1;Lietuviu;21;0
+46;Du gaideliai;7;Nuo 4 iki 5 metu;1;Lietuviu;25;0
+46;Du gaideliai;8;Nuo 5 iki 6 metu;1;Lietuviu;24;0
+46;Du gaideliai;9;Nuo 6 iki 7 metu;1;Lietuviu;0;23
+46;Du gaideliai;11;Nuo 5 iki 7 metu;1;Lietuviu;21;0
+46;Du gaideliai;12;Nuo 2 iki 3 metu;1;Lietuviu;0;1
+46;Du gaideliai;28;Nuo 1 iki 7 metu;1;Lietuviu;0;20
+47;Eglute;3;Nuo 1,5 iki 3 metu;1;Lietuviu;104;0
+47;Eglute;6;Nuo 3 iki 4 metu;1;Lietuviu;4;0
+47;Eglute;7;Nuo 4 iki 5 metu;1;Lietuviu;44;0
+47;Eglute;8;Nuo 5 iki 6 metu;1;Lietuviu;44;0
+47;Eglute;11;Nuo 5 iki 7 metu;1;Lietuviu;52;0
+47;Eglute;16;Nuo 4 iki 7 metu;1;Lietuviu;5;0
+47;Eglute;18;Nuo 2 iki 4 metu;1;Lietuviu;73;0
+49;Gandriukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;89;0
+49;Gandriukas;6;Nuo 3 iki 4 metu;1;Lietuviu;62;0
+49;Gandriukas;7;Nuo 4 iki 5 metu;1;Lietuviu;43;0
+49;Gandriukas;8;Nuo 5 iki 6 metu;1;Lietuviu;64;0
+49;Gandriukas;11;Nuo 5 iki 7 metu;1;Lietuviu;46;0
+50;Geniuku kalve;3;Nuo 1,5 iki 3 metu;1;Lietuviu;67;0
+50;Geniuku kalve;6;Nuo 3 iki 4 metu;1;Lietuviu;32;0
+50;Geniuku kalve;7;Nuo 4 iki 5 metu;1;Lietuviu;65;0
+50;Geniuku kalve;8;Nuo 5 iki 6 metu;1;Lietuviu;48;3
+50;Geniuku kalve;9;Nuo 6 iki 7 metu;1;Lietuviu;1;0
+50;Geniuku kalve;11;Nuo 5 iki 7 metu;1;Lietuviu;45;0
+50;Geniuku kalve;18;Nuo 2 iki 4 metu;1;Lietuviu;45;0
+51;Gelvonelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;50;0
+51;Gelvonelis;7;Nuo 4 iki 5 metu;1;Lietuviu;19;0
+51;Gelvonelis;8;Nuo 5 iki 6 metu;1;Lietuviu;20;0
+51;Gelvonelis;11;Nuo 5 iki 7 metu;1;Lietuviu;20;0
+51;Gelvonelis;16;Nuo 4 iki 7 metu;1;Lietuviu;6;2
+51;Gelvonelis;18;Nuo 2 iki 4 metu;1;Lietuviu;19;0
+52;Gervele (Dzuku g. 32);3;Nuo 1,5 iki 3 metu;1;Lietuviu;24;0
+52;Gervele (Dzuku g. 32);6;Nuo 3 iki 4 metu;1;Lietuviu;7;1
+52;Gervele (Dzuku g. 32);7;Nuo 4 iki 5 metu;1;Lietuviu;26;1
+52;Gervele (Dzuku g. 32);8;Nuo 5 iki 6 metu;1;Lietuviu;23;0
+52;Gervele (Dzuku g. 32);9;Nuo 6 iki 7 metu;1;Lietuviu;4;1
+52;Gervele (Dzuku g. 32);11;Nuo 5 iki 7 metu;1;Lietuviu;15;0
+52;Gervele (Dzuku g. 32);18;Nuo 2 iki 4 metu;1;Lietuviu;14;0
+53;Giluzis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;61;0
+53;Giluzis;6;Nuo 3 iki 4 metu;1;Lietuviu;110;0
+53;Giluzis;7;Nuo 4 iki 5 metu;1;Lietuviu;46;0
+53;Giluzis;8;Nuo 5 iki 6 metu;1;Lietuviu;46;0
+53;Giluzis;11;Nuo 5 iki 7 metu;1;Lietuviu;111;0
+54;Gintarelis (Didlaukio g. 35);3;Nuo 1,5 iki 3 metu;1;Lietuviu;72;0
+54;Gintarelis (Didlaukio g. 35);6;Nuo 3 iki 4 metu;1;Lietuviu;46;0
+54;Gintarelis (Didlaukio g. 35);7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+54;Gintarelis (Didlaukio g. 35);8;Nuo 5 iki 6 metu;1;Lietuviu;57;0
+54;Gintarelis (Didlaukio g. 35);10;Nuo 3 iki 5 metu;1;Lietuviu;23;0
+54;Gintarelis (Didlaukio g. 35);11;Nuo 5 iki 7 metu;1;Lietuviu;88;0
+54;Gintarelis (Didlaukio g. 35);14;Nuo 3 iki 6 metu;1;Lietuviu;46;0
+54;Gintarelis (Didlaukio g. 35);18;Nuo 2 iki 4 metu;1;Lietuviu;60;0
+54;Gintarelis (Didlaukio g. 35);19;Nuo 2 iki 5 metu;1;Lietuviu;2;0
+54;Gintarelis (Didlaukio g. 35);28;Nuo 1 iki 7 metu;1;Lietuviu;0;1
+55;Giraite;3;Nuo 1,5 iki 3 metu;1;Lietuviu;78;0
+55;Giraite;6;Nuo 3 iki 4 metu;1;Lietuviu;43;0
+55;Giraite;7;Nuo 4 iki 5 metu;1;Lietuviu;47;0
+55;Giraite;8;Nuo 5 iki 6 metu;1;Lietuviu;24;0
+55;Giraite;10;Nuo 3 iki 5 metu;1;Lietuviu;20;0
+55;Giraite;11;Nuo 5 iki 7 metu;1;Lietuviu;62;0
+55;Giraite;18;Nuo 2 iki 4 metu;1;Lietuviu;42;0
+55;Giraite;28;Nuo 1 iki 7 metu;1;Lietuviu;1;0
+56;Gudrutis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;35;0
+56;Gudrutis;7;Nuo 4 iki 5 metu;1;Lietuviu;20;0
+56;Gudrutis;8;Nuo 5 iki 6 metu;1;Lietuviu;22;0
+56;Gudrutis;10;Nuo 3 iki 5 metu;1;Lietuviu;2;0
+56;Gudrutis;11;Nuo 5 iki 7 metu;1;Lietuviu;21;0
+56;Gudrutis;18;Nuo 2 iki 4 metu;1;Lietuviu;49;0
+56;Gudrutis;28;Nuo 1 iki 7 metu;1;Lietuviu;0;1
+57;Jovarelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;59;0
+57;Jovarelis;4;Nuo 3 iki 7 metu;1;Lietuviu;14;3
+57;Jovarelis;6;Nuo 3 iki 4 metu;1;Lietuviu;45;0
+57;Jovarelis;7;Nuo 4 iki 5 metu;1;Lietuviu;45;0
+57;Jovarelis;8;Nuo 5 iki 6 metu;1;Lietuviu;23;0
+57;Jovarelis;11;Nuo 5 iki 7 metu;1;Lietuviu;89;0
+57;Jovarelis;18;Nuo 2 iki 4 metu;1;Lietuviu;31;0
+58;Jurginelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;93;0
+58;Jurginelis;6;Nuo 3 iki 4 metu;1;Lietuviu;18;0
+58;Jurginelis;7;Nuo 4 iki 5 metu;1;Lietuviu;67;0
+58;Jurginelis;8;Nuo 5 iki 6 metu;1;Lietuviu;24;0
+58;Jurginelis;11;Nuo 5 iki 7 metu;1;Lietuviu;58;0
+58;Jurginelis;12;Nuo 2 iki 3 metu;1;Lietuviu;14;0
+58;Jurginelis;18;Nuo 2 iki 4 metu;1;Lietuviu;33;0
+58;Jurginelis;19;Nuo 2 iki 5 metu;1;Lietuviu;2;0
+59;Karusele;4;Nuo 3 iki 7 metu;1;Lietuviu;22;0
+59;Karusele;6;Nuo 3 iki 4 metu;1;Lietuviu;30;2
+59;Karusele;8;Nuo 5 iki 6 metu;1;Lietuviu;22;0
+59;Karusele;11;Nuo 5 iki 7 metu;1;Lietuviu;45;0
+59;Karusele;16;Nuo 4 iki 7 metu;1;Lietuviu;8;5
+60;Kastonas;10;Nuo 3 iki 5 metu;1;Lietuviu;20;0
+60;Kastonas;11;Nuo 5 iki 7 metu;1;Lietuviu;21;0
+61;Krivule;3;Nuo 1,5 iki 3 metu;1;Lietuviu;55;0
+61;Krivule;10;Nuo 3 iki 5 metu;1;Lietuviu;42;0
+61;Krivule;11;Nuo 5 iki 7 metu;1;Lietuviu;58;0
+61;Krivule;13;Nuo 4 iki 6 metu;1;Lietuviu;22;0
+61;Krivule;18;Nuo 2 iki 4 metu;1;Lietuviu;36;0
+61;Krivule;20;Nuo 2 iki 6 metu;1;Lietuviu;24;0
+62;Kodelciukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;144;0
+62;Kodelciukas;6;Nuo 3 iki 4 metu;1;Lietuviu;45;3
+62;Kodelciukas;7;Nuo 4 iki 5 metu;1;Lietuviu;77;0
+62;Kodelciukas;8;Nuo 5 iki 6 metu;1;Lietuviu;61;1
+62;Kodelciukas;11;Nuo 5 iki 7 metu;1;Lietuviu;48;0
+62;Kodelciukas;18;Nuo 2 iki 4 metu;1;Lietuviu;61;0
+62;Kodelciukas;28;Nuo 1 iki 7 metu;1;Lietuviu;0;1
+66;Lakstingala;3;Nuo 1,5 iki 3 metu;1;Lietuviu;75;0
+66;Lakstingala;6;Nuo 3 iki 4 metu;1;Lietuviu;35;6
+66;Lakstingala;7;Nuo 4 iki 5 metu;1;Lietuviu;64;0
+66;Lakstingala;8;Nuo 5 iki 6 metu;1;Lietuviu;40;0
+66;Lakstingala;11;Nuo 5 iki 7 metu;1;Lietuviu;49;0
+66;Lakstingala;16;Nuo 4 iki 7 metu;1;Lietuviu;5;2
+66;Lakstingala;18;Nuo 2 iki 4 metu;1;Lietuviu;64;7
+68;Lazdynelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;47;0
+68;Lazdynelis;6;Nuo 3 iki 4 metu;1;Lietuviu;94;0
+68;Lazdynelis;7;Nuo 4 iki 5 metu;1;Lietuviu;24;0
+68;Lazdynelis;11;Nuo 5 iki 7 metu;1;Lietuviu;75;0
+68;Lazdynelis;16;Nuo 4 iki 7 metu;1;Lietuviu;16;5
+69;Liepsnele;3;Nuo 1,5 iki 3 metu;1;Lietuviu;16;0
+69;Liepsnele;14;Nuo 3 iki 6 metu;1;Lietuviu;24;1
+69;Liepsnele;18;Nuo 2 iki 4 metu;1;Lietuviu;1;0
+71;Lokiuko giraite;3;Nuo 1,5 iki 3 metu;1;Lietuviu;89;0
+71;Lokiuko giraite;7;Nuo 4 iki 5 metu;1;Lietuviu;63;0
+71;Lokiuko giraite;8;Nuo 5 iki 6 metu;1;Lietuviu;46;0
+71;Lokiuko giraite;9;Nuo 6 iki 7 metu;1;Lietuviu;1;4
+71;Lokiuko giraite;11;Nuo 5 iki 7 metu;1;Lietuviu;42;0
+71;Lokiuko giraite;13;Nuo 4 iki 6 metu;1;Lietuviu;1;1
+71;Lokiuko giraite;18;Nuo 2 iki 4 metu;1;Lietuviu;59;0
+72;Markuciai;3;Nuo 1,5 iki 3 metu;1;Lietuviu;56;0
+72;Markuciai;6;Nuo 3 iki 4 metu;1;Lietuviu;10;0
+72;Markuciai;7;Nuo 4 iki 5 metu;1;Lietuviu;41;0
+72;Markuciai;8;Nuo 5 iki 6 metu;1;Lietuviu;49;0
+72;Markuciai;9;Nuo 6 iki 7 metu;1;Lietuviu;20;1
+72;Markuciai;11;Nuo 5 iki 7 metu;1;Lietuviu;19;0
+72;Markuciai;14;Nuo 3 iki 6 metu;1;Lietuviu;6;0
+72;Markuciai;18;Nuo 2 iki 4 metu;1;Lietuviu;21;0
+73;Mazylis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;50;0
+73;Mazylis;6;Nuo 3 iki 4 metu;1;Lietuviu;9;0
+73;Mazylis;7;Nuo 4 iki 5 metu;1;Lietuviu;20;0
+73;Mazylis;8;Nuo 5 iki 6 metu;1;Lietuviu;22;0
+73;Mazylis;11;Nuo 5 iki 7 metu;1;Lietuviu;22;0
+73;Mazylis;18;Nuo 2 iki 4 metu;1;Lietuviu;23;0
+74;Medynelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;139;0
+74;Medynelis;6;Nuo 3 iki 4 metu;1;Lietuviu;83;0
+74;Medynelis;7;Nuo 4 iki 5 metu;1;Lietuviu;46;0
+74;Medynelis;8;Nuo 5 iki 6 metu;1;Lietuviu;54;1
+74;Medynelis;9;Nuo 6 iki 7 metu;1;Lietuviu;21;3
+74;Medynelis;11;Nuo 5 iki 7 metu;1;Lietuviu;22;0
+74;Medynelis;13;Nuo 4 iki 6 metu;1;Lietuviu;23;0
+74;Medynelis;28;Nuo 1 iki 7 metu;1;Lietuviu;1;1
+75;Molinukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;56;0
+75;Molinukas;6;Nuo 3 iki 4 metu;1;Lietuviu;25;0
+75;Molinukas;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+75;Molinukas;9;Nuo 6 iki 7 metu;1;Lietuviu;1;2
+75;Molinukas;14;Nuo 3 iki 6 metu;1;Lietuviu;23;0
+75;Molinukas;16;Nuo 4 iki 7 metu;1;Lietuviu;19;0
+76;Naminukas (Smelio g. 13);7;Nuo 4 iki 5 metu;1;Lietuviu;26;3
+76;Naminukas (Smelio g. 13);8;Nuo 5 iki 6 metu;1;Lietuviu;23;0
+76;Naminukas (Smelio g. 13);9;Nuo 6 iki 7 metu;1;Lietuviu;1;0
+76;Naminukas (Smelio g. 13);11;Nuo 5 iki 7 metu;1;Lietuviu;20;0
+76;Naminukas (Smelio g. 13);18;Nuo 2 iki 4 metu;1;Lietuviu;34;4
+78;Nykstukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;122;0
+78;Nykstukas;6;Nuo 3 iki 4 metu;1;Lietuviu;65;0
+78;Nykstukas;7;Nuo 4 iki 5 metu;1;Lietuviu;50;0
+78;Nykstukas;8;Nuo 5 iki 6 metu;1;Lietuviu;46;0
+78;Nykstukas;18;Nuo 2 iki 4 metu;1;Lietuviu;32;0
+79;Ozas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;86;0
+79;Ozas;6;Nuo 3 iki 4 metu;1;Lietuviu;4;0
+79;Ozas;7;Nuo 4 iki 5 metu;1;Lietuviu;48;0
+79;Ozas;8;Nuo 5 iki 6 metu;1;Lietuviu;68;0
+79;Ozas;11;Nuo 5 iki 7 metu;1;Lietuviu;60;0
+79;Ozas;18;Nuo 2 iki 4 metu;1;Lietuviu;50;0
+80;Pabiruciai;3;Nuo 1,5 iki 3 metu;1;Lietuviu;82;0
+80;Pabiruciai;6;Nuo 3 iki 4 metu;1;Lietuviu;22;0
+80;Pabiruciai;7;Nuo 4 iki 5 metu;1;Lietuviu;44;0
+80;Pabiruciai;8;Nuo 5 iki 6 metu;1;Lietuviu;38;0
+80;Pabiruciai;9;Nuo 6 iki 7 metu;1;Lietuviu;0;6
+80;Pabiruciai;11;Nuo 5 iki 7 metu;1;Lietuviu;33;0
+80;Pabiruciai;12;Nuo 2 iki 3 metu;1;Lietuviu;18;0
+80;Pabiruciai;13;Nuo 4 iki 6 metu;1;Lietuviu;2;0
+80;Pabiruciai;18;Nuo 2 iki 4 metu;1;Lietuviu;36;0
+80;Pabiruciai;28;Nuo 1 iki 7 metu;1;Lietuviu;0;1
+81;Pagrandukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;34;0
+81;Pagrandukas;4;Nuo 3 iki 7 metu;1;Lietuviu;2;0
+81;Pagrandukas;6;Nuo 3 iki 4 metu;1;Lietuviu;5;0
+81;Pagrandukas;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+81;Pagrandukas;8;Nuo 5 iki 6 metu;1;Lietuviu;11;0
+81;Pagrandukas;9;Nuo 6 iki 7 metu;1;Lietuviu;0;0
+81;Pagrandukas;11;Nuo 5 iki 7 metu;1;Lietuviu;22;0
+81;Pagrandukas;14;Nuo 3 iki 6 metu;1;Lietuviu;26;0
+81;Pagrandukas;18;Nuo 2 iki 4 metu;1;Lietuviu;41;0
+82;Pakalnute;3;Nuo 1,5 iki 3 metu;1;Lietuviu;65;0
+82;Pakalnute;9;Nuo 6 iki 7 metu;1;Lietuviu;2;4
+82;Pakalnute;10;Nuo 3 iki 5 metu;1;Lietuviu;52;0
+82;Pakalnute;11;Nuo 5 iki 7 metu;1;Lietuviu;24;0
+82;Pakalnute;13;Nuo 4 iki 6 metu;1;Lietuviu;19;0
+82;Pakalnute;18;Nuo 2 iki 4 metu;1;Lietuviu;52;0
+83;Paneriu;3;Nuo 1,5 iki 3 metu;1;Lietuviu;16;18
+83;Paneriu;16;Nuo 4 iki 7 metu;1;Lietuviu;23;1
+83;Paneriu;18;Nuo 2 iki 4 metu;1;Lietuviu;20;0
+84;Papartis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;60;0
+84;Papartis;7;Nuo 4 iki 5 metu;1;Lietuviu;47;0
+84;Papartis;8;Nuo 5 iki 6 metu;1;Lietuviu;45;0
+84;Papartis;11;Nuo 5 iki 7 metu;1;Lietuviu;44;0
+84;Papartis;18;Nuo 2 iki 4 metu;1;Lietuviu;105;0
+86;Pasaka;3;Nuo 1,5 iki 3 metu;1;Lietuviu;30;0
+86;Pasaka;4;Nuo 3 iki 7 metu;1;Lietuviu;79;0
+86;Pasaka;6;Nuo 3 iki 4 metu;1;Lietuviu;16;0
+86;Pasaka;7;Nuo 4 iki 5 metu;1;Lietuviu;45;0
+86;Pasaka;8;Nuo 5 iki 6 metu;1;Lietuviu;19;0
+86;Pasaka;11;Nuo 5 iki 7 metu;1;Lietuviu;49;0
+86;Pasaka;13;Nuo 4 iki 6 metu;1;Lietuviu;13;0
+86;Pasaka;18;Nuo 2 iki 4 metu;1;Lietuviu;44;0
+88;Pasakaite;3;Nuo 1,5 iki 3 metu;1;Lietuviu;111;0
+88;Pasakaite;6;Nuo 3 iki 4 metu;1;Lietuviu;28;0
+88;Pasakaite;7;Nuo 4 iki 5 metu;1;Lietuviu;24;0
+88;Pasakaite;11;Nuo 5 iki 7 metu;1;Lietuviu;69;0
+88;Pasakaite;19;Nuo 2 iki 5 metu;1;Lietuviu;0;0
+88;Pasakaite;20;Nuo 2 iki 6 metu;1;Lietuviu;67;0
+89;Peleda;3;Nuo 1,5 iki 3 metu;1;Lietuviu;67;0
+89;Peleda;7;Nuo 4 iki 5 metu;1;Lietuviu;39;0
+89;Peleda;8;Nuo 5 iki 6 metu;1;Lietuviu;48;0
+89;Peleda;11;Nuo 5 iki 7 metu;1;Lietuviu;26;0
+89;Peleda;12;Nuo 2 iki 3 metu;1;Lietuviu;18;0
+89;Peleda;14;Nuo 3 iki 6 metu;1;Lietuviu;23;0
+89;Peleda;16;Nuo 4 iki 7 metu;1;Lietuviu;10;1
+89;Peleda;18;Nuo 2 iki 4 metu;1;Lietuviu;64;0
+89;Peleda;19;Nuo 2 iki 5 metu;1;Lietuviu;7;0
+90;Pelene;3;Nuo 1,5 iki 3 metu;1;Lietuviu;49;0
+90;Pelene;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+90;Pelene;8;Nuo 5 iki 6 metu;1;Lietuviu;20;0
+90;Pelene;9;Nuo 6 iki 7 metu;1;Lietuviu;1;1
+90;Pelene;11;Nuo 5 iki 7 metu;1;Lietuviu;20;0
+90;Pelene;18;Nuo 2 iki 4 metu;1;Lietuviu;24;0
+91;Pipiras;3;Nuo 1,5 iki 3 metu;1;Lietuviu;68;0
+91;Pipiras;6;Nuo 3 iki 4 metu;1;Lietuviu;8;0
+91;Pipiras;7;Nuo 4 iki 5 metu;1;Lietuviu;39;0
+91;Pipiras;8;Nuo 5 iki 6 metu;1;Lietuviu;40;0
+91;Pipiras;11;Nuo 5 iki 7 metu;1;Lietuviu;78;0
+91;Pipiras;12;Nuo 2 iki 3 metu;1;Lietuviu;15;0
+91;Pipiras;14;Nuo 3 iki 6 metu;1;Lietuviu;5;0
+91;Pipiras;18;Nuo 2 iki 4 metu;1;Lietuviu;41;0
+93;Pumpurelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;35;36
+93;Pumpurelis;4;Nuo 3 iki 7 metu;1;Lietuviu;20;3
+93;Pumpurelis;6;Nuo 3 iki 4 metu;1;Lietuviu;42;8
+93;Pumpurelis;7;Nuo 4 iki 5 metu;1;Lietuviu;43;2
+93;Pumpurelis;8;Nuo 5 iki 6 metu;1;Lietuviu;42;1
+93;Pumpurelis;10;Nuo 3 iki 5 metu;1;Lietuviu;0;22
+93;Pumpurelis;11;Nuo 5 iki 7 metu;1;Lietuviu;60;0
+94;Puriena;3;Nuo 1,5 iki 3 metu;1;Lietuviu;68;0
+94;Puriena;7;Nuo 4 iki 5 metu;1;Lietuviu;50;0
+94;Puriena;8;Nuo 5 iki 6 metu;1;Lietuviu;46;0
+94;Puriena;10;Nuo 3 iki 5 metu;1;Lietuviu;6;0
+94;Puriena;11;Nuo 5 iki 7 metu;1;Lietuviu;41;0
+94;Puriena;12;Nuo 2 iki 3 metu;1;Lietuviu;29;0
+94;Puriena;18;Nuo 2 iki 4 metu;1;Lietuviu;65;0
+95;Pusaite;3;Nuo 1,5 iki 3 metu;1;Lietuviu;122;0
+95;Pusaite;6;Nuo 3 iki 4 metu;1;Lietuviu;24;0
+95;Pusaite;7;Nuo 4 iki 5 metu;1;Lietuviu;45;0
+95;Pusaite;8;Nuo 5 iki 6 metu;1;Lietuviu;46;0
+95;Pusaite;11;Nuo 5 iki 7 metu;1;Lietuviu;46;0
+95;Pusaite;18;Nuo 2 iki 4 metu;1;Lietuviu;23;0
+96;Pusynelis (Miglos g. 53);3;Nuo 1,5 iki 3 metu;1;Lietuviu;35;0
+96;Pusynelis (Miglos g. 53);10;Nuo 3 iki 5 metu;1;Lietuviu;23;0
+96;Pusynelis (Miglos g. 53);11;Nuo 5 iki 7 metu;1;Lietuviu;24;0
+96;Pusynelis (Miglos g. 53);14;Nuo 3 iki 6 metu;1;Lietuviu;23;0
+98;Rasa;1;Iki 1,5 metu;1;Lietuviu;14;8
+98;Rasa;3;Nuo 1,5 iki 3 metu;1;Lietuviu;16;14
+98;Rasa;7;Nuo 4 iki 5 metu;1;Lietuviu;35;0
+98;Rasa;8;Nuo 5 iki 6 metu;1;Lietuviu;22;4
+98;Rasa;11;Nuo 5 iki 7 metu;1;Lietuviu;56;0
+98;Rasa;13;Nuo 4 iki 6 metu;1;Lietuviu;18;0
+98;Rasa;14;Nuo 3 iki 6 metu;1;Lietuviu;22;0
+98;Rasa;18;Nuo 2 iki 4 metu;1;Lietuviu;40;37
+98;Rasa;19;Nuo 2 iki 5 metu;1;Lietuviu;0;7
+99;Rugelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;36;0
+99;Rugelis;6;Nuo 3 iki 4 metu;1;Lietuviu;44;0
+99;Rugelis;7;Nuo 4 iki 5 metu;1;Lietuviu;21;0
+99;Rugelis;8;Nuo 5 iki 6 metu;1;Lietuviu;41;1
+99;Rugelis;11;Nuo 5 iki 7 metu;1;Lietuviu;20;4
+99;Rugelis;13;Nuo 4 iki 6 metu;1;Lietuviu;4;1
+99;Rugelis;18;Nuo 2 iki 4 metu;1;Lietuviu;46;0
+99;Rugelis;28;Nuo 1 iki 7 metu;1;Lietuviu;0;0
+100;Riesutelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;110;0
+100;Riesutelis;7;Nuo 4 iki 5 metu;1;Lietuviu;25;1
+100;Riesutelis;10;Nuo 3 iki 5 metu;1;Lietuviu;20;0
+100;Riesutelis;11;Nuo 5 iki 7 metu;1;Lietuviu;69;0
+100;Riesutelis;13;Nuo 4 iki 6 metu;1;Lietuviu;42;0
+100;Riesutelis;18;Nuo 2 iki 4 metu;1;Lietuviu;55;1
+101;Rytas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;77;9
+101;Rytas;6;Nuo 3 iki 4 metu;1;Lietuviu;23;0
+101;Rytas;8;Nuo 5 iki 6 metu;1;Lietuviu;45;2
+101;Rytas;10;Nuo 3 iki 5 metu;1;Lietuviu;48;0
+101;Rytas;11;Nuo 5 iki 7 metu;1;Lietuviu;42;0
+101;Rytas;13;Nuo 4 iki 6 metu;1;Lietuviu;17;0
+101;Rytas;18;Nuo 2 iki 4 metu;1;Lietuviu;52;1
+102;Ramunele;3;Nuo 1,5 iki 3 metu;1;Lietuviu;17;17
+102;Ramunele;7;Nuo 4 iki 5 metu;1;Lietuviu;18;0
+102;Ramunele;8;Nuo 5 iki 6 metu;1;Lietuviu;22;0
+102;Ramunele;11;Nuo 5 iki 7 metu;1;Lietuviu;45;5
+102;Ramunele;18;Nuo 2 iki 4 metu;1;Lietuviu;42;23
+103;Ruta;3;Nuo 1,5 iki 3 metu;1;Lietuviu;45;0
+103;Ruta;6;Nuo 3 iki 4 metu;1;Lietuviu;24;0
+103;Ruta;7;Nuo 4 iki 5 metu;1;Lietuviu;44;0
+103;Ruta;8;Nuo 5 iki 6 metu;1;Lietuviu;43;0
+103;Ruta;10;Nuo 3 iki 5 metu;1;Lietuviu;0;0
+103;Ruta;11;Nuo 5 iki 7 metu;1;Lietuviu;45;0
+103;Ruta;12;Nuo 2 iki 3 metu;1;Lietuviu;17;0
+103;Ruta;14;Nuo 3 iki 6 metu;1;Lietuviu;12;0
+103;Ruta;18;Nuo 2 iki 4 metu;1;Lietuviu;28;0
+104;Sadute;3;Nuo 1,5 iki 3 metu;1;Lietuviu;54;0
+104;Sadute;6;Nuo 3 iki 4 metu;1;Lietuviu;26;0
+104;Sadute;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+104;Sadute;8;Nuo 5 iki 6 metu;1;Lietuviu;23;1
+104;Sadute;9;Nuo 6 iki 7 metu;1;Lietuviu;1;0
+104;Sadute;11;Nuo 5 iki 7 metu;1;Lietuviu;44;0
+105;Sakalelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;38;16
+105;Sakalelis;4;Nuo 3 iki 7 metu;1;Lietuviu;46;3
+105;Sakalelis;7;Nuo 4 iki 5 metu;1;Lietuviu;45;6
+105;Sakalelis;8;Nuo 5 iki 6 metu;1;Lietuviu;46;1
+105;Sakalelis;10;Nuo 3 iki 5 metu;1;Lietuviu;0;3
+105;Sakalelis;11;Nuo 5 iki 7 metu;1;Lietuviu;23;0
+105;Sakalelis;12;Nuo 2 iki 3 metu;1;Lietuviu;1;8
+105;Sakalelis;18;Nuo 2 iki 4 metu;1;Lietuviu;45;6
+106;Salininku;3;Nuo 1,5 iki 3 metu;1;Lietuviu;77;0
+106;Salininku;6;Nuo 3 iki 4 metu;1;Lietuviu;23;0
+106;Salininku;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+106;Salininku;8;Nuo 5 iki 6 metu;1;Lietuviu;26;0
+108;Sauletekis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;67;0
+108;Sauletekis;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+108;Sauletekis;8;Nuo 5 iki 6 metu;1;Lietuviu;44;0
+108;Sauletekis;11;Nuo 5 iki 7 metu;1;Lietuviu;43;0
+108;Sauletekis;18;Nuo 2 iki 4 metu;1;Lietuviu;72;0
+109;Skroblinukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;115;0
+109;Skroblinukas;7;Nuo 4 iki 5 metu;1;Lietuviu;42;0
+109;Skroblinukas;8;Nuo 5 iki 6 metu;1;Lietuviu;39;3
+109;Skroblinukas;9;Nuo 6 iki 7 metu;1;Lietuviu;3;0
+109;Skroblinukas;11;Nuo 5 iki 7 metu;1;Lietuviu;45;0
+109;Skroblinukas;18;Nuo 2 iki 4 metu;1;Lietuviu;35;0
+110;Smalsuciai;3;Nuo 1,5 iki 3 metu;1;Lietuviu;84;0
+110;Smalsuciai;7;Nuo 4 iki 5 metu;1;Lietuviu;40;0
+110;Smalsuciai;8;Nuo 5 iki 6 metu;1;Lietuviu;66;0
+110;Smalsuciai;11;Nuo 5 iki 7 metu;1;Lietuviu;37;0
+110;Smalsuciai;18;Nuo 2 iki 4 metu;1;Lietuviu;51;0
+110;Smalsuciai;28;Nuo 1 iki 7 metu;1;Lietuviu;0;1
+112;Spragtukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;22;14
+112;Spragtukas;6;Nuo 3 iki 4 metu;1;Lietuviu;25;0
+112;Spragtukas;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+112;Spragtukas;8;Nuo 5 iki 6 metu;1;Lietuviu;20;0
+112;Spragtukas;11;Nuo 5 iki 7 metu;1;Lietuviu;23;6
+112;Spragtukas;16;Nuo 4 iki 7 metu;1;Lietuviu;21;0
+113;Strazdelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;106;0
+113;Strazdelis;6;Nuo 3 iki 4 metu;1;Lietuviu;70;0
+113;Strazdelis;7;Nuo 4 iki 5 metu;1;Lietuviu;46;0
+113;Strazdelis;8;Nuo 5 iki 6 metu;1;Lietuviu;67;0
+113;Strazdelis;11;Nuo 5 iki 7 metu;1;Lietuviu;44;0
+113;Strazdelis;12;Nuo 2 iki 3 metu;1;Lietuviu;18;0
+113;Strazdelis;16;Nuo 4 iki 7 metu;1;Lietuviu;15;8
+114;Sveikuolis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;17;0
+115;sermuksnele;3;Nuo 1,5 iki 3 metu;1;Lietuviu;53;0
+115;sermuksnele;6;Nuo 3 iki 4 metu;1;Lietuviu;67;0
+115;sermuksnele;7;Nuo 4 iki 5 metu;1;Lietuviu;46;0
+115;sermuksnele;11;Nuo 5 iki 7 metu;1;Lietuviu;39;0
+115;sermuksnele;13;Nuo 4 iki 6 metu;1;Lietuviu;23;0
+115;sermuksnele;16;Nuo 4 iki 7 metu;1;Lietuviu;22;0
+117;snekutis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;54;0
+117;snekutis;7;Nuo 4 iki 5 metu;1;Lietuviu;21;0
+117;snekutis;11;Nuo 5 iki 7 metu;1;Lietuviu;24;0
+117;snekutis;14;Nuo 3 iki 6 metu;1;Lietuviu;21;0
+117;snekutis;18;Nuo 2 iki 4 metu;1;Lietuviu;21;0
+118;Uzupiukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;35;0
+118;Uzupiukas;6;Nuo 3 iki 4 metu;1;Lietuviu;33;0
+118;Uzupiukas;7;Nuo 4 iki 5 metu;1;Lietuviu;65;0
+118;Uzupiukas;8;Nuo 5 iki 6 metu;1;Lietuviu;69;0
+118;Uzupiukas;11;Nuo 5 iki 7 metu;1;Lietuviu;42;0
+118;Uzupiukas;13;Nuo 4 iki 6 metu;1;Lietuviu;14;0
+118;Uzupiukas;18;Nuo 2 iki 4 metu;1;Lietuviu;70;0
+119;Vaidilute;3;Nuo 1,5 iki 3 metu;1;Lietuviu;72;0
+119;Vaidilute;6;Nuo 3 iki 4 metu;1;Lietuviu;31;0
+119;Vaidilute;7;Nuo 4 iki 5 metu;1;Lietuviu;61;3
+119;Vaidilute;8;Nuo 5 iki 6 metu;1;Lietuviu;43;0
+119;Vaidilute;9;Nuo 6 iki 7 metu;1;Lietuviu;1;0
+119;Vaidilute;11;Nuo 5 iki 7 metu;1;Lietuviu;42;0
+119;Vaidilute;13;Nuo 4 iki 6 metu;1;Lietuviu;4;0
+119;Vaidilute;18;Nuo 2 iki 4 metu;1;Lietuviu;42;0
+120;Vandenis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;137;0
+120;Vandenis;6;Nuo 3 iki 4 metu;1;Lietuviu;65;0
+120;Vandenis;7;Nuo 4 iki 5 metu;1;Lietuviu;69;0
+120;Vandenis;8;Nuo 5 iki 6 metu;1;Lietuviu;47;0
+120;Vandenis;10;Nuo 3 iki 5 metu;1;Lietuviu;23;0
+120;Vandenis;11;Nuo 5 iki 7 metu;1;Lietuviu;46;0
+121;Varpelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;81;0
+121;Varpelis;4;Nuo 3 iki 7 metu;1;Lietuviu;28;0
+121;Varpelis;6;Nuo 3 iki 4 metu;1;Lietuviu;1;0
+121;Varpelis;7;Nuo 4 iki 5 metu;1;Lietuviu;51;1
+121;Varpelis;8;Nuo 5 iki 6 metu;1;Lietuviu;47;0
+121;Varpelis;11;Nuo 5 iki 7 metu;1;Lietuviu;46;5
+121;Varpelis;14;Nuo 3 iki 6 metu;1;Lietuviu;6;0
+121;Varpelis;18;Nuo 2 iki 4 metu;1;Lietuviu;44;0
+122;Vejelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;36;0
+122;Vejelis;6;Nuo 3 iki 4 metu;1;Lietuviu;25;0
+122;Vejelis;8;Nuo 5 iki 6 metu;1;Lietuviu;42;0
+122;Vejelis;9;Nuo 6 iki 7 metu;1;Lietuviu;2;0
+122;Vejelis;10;Nuo 3 iki 5 metu;1;Lietuviu;23;0
+122;Vejelis;11;Nuo 5 iki 7 metu;1;Lietuviu;42;0
+123;Vetrunge;1;Iki 1,5 metu;1;Lietuviu;23;0
+123;Vetrunge;3;Nuo 1,5 iki 3 metu;1;Lietuviu;53;0
+123;Vetrunge;6;Nuo 3 iki 4 metu;1;Lietuviu;22;0
+123;Vetrunge;7;Nuo 4 iki 5 metu;1;Lietuviu;41;0
+123;Vetrunge;8;Nuo 5 iki 6 metu;1;Lietuviu;39;0
+123;Vetrunge;11;Nuo 5 iki 7 metu;1;Lietuviu;39;0
+123;Vetrunge;16;Nuo 4 iki 7 metu;1;Lietuviu;3;1
+123;Vetrunge;18;Nuo 2 iki 4 metu;1;Lietuviu;22;0
+124;Vilnele;3;Nuo 1,5 iki 3 metu;1;Lietuviu;66;0
+124;Vilnele;7;Nuo 4 iki 5 metu;1;Lietuviu;43;0
+124;Vilnele;11;Nuo 5 iki 7 metu;1;Lietuviu;46;0
+124;Vilnele;18;Nuo 2 iki 4 metu;1;Lietuviu;91;0
+124;Vilnele;20;Nuo 2 iki 6 metu;1;Lietuviu;60;0
+125;Verinelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;39;0
+125;Verinelis;10;Nuo 3 iki 5 metu;1;Lietuviu;22;0
+125;Verinelis;11;Nuo 5 iki 7 metu;1;Lietuviu;25;0
+125;Verinelis;13;Nuo 4 iki 6 metu;1;Lietuviu;24;0
+126;Viltene;3;Nuo 1,5 iki 3 metu;1;Lietuviu;102;0
+126;Viltene;7;Nuo 4 iki 5 metu;1;Lietuviu;38;0
+126;Viltene;8;Nuo 5 iki 6 metu;1;Lietuviu;41;0
+126;Viltene;11;Nuo 5 iki 7 metu;1;Lietuviu;47;1
+126;Viltene;13;Nuo 4 iki 6 metu;1;Lietuviu;3;0
+126;Viltene;18;Nuo 2 iki 4 metu;1;Lietuviu;44;0
+127;Voveraite;3;Nuo 1,5 iki 3 metu;1;Lietuviu;77;3
+127;Voveraite;6;Nuo 3 iki 4 metu;1;Lietuviu;4;4
+127;Voveraite;7;Nuo 4 iki 5 metu;1;Lietuviu;45;0
+127;Voveraite;8;Nuo 5 iki 6 metu;1;Lietuviu;61;0
+127;Voveraite;10;Nuo 3 iki 5 metu;1;Lietuviu;2;1
+127;Voveraite;11;Nuo 5 iki 7 metu;1;Lietuviu;39;0
+127;Voveraite;16;Nuo 4 iki 7 metu;1;Lietuviu;3;0
+127;Voveraite;18;Nuo 2 iki 4 metu;1;Lietuviu;60;8
+128;Traku Voke;3;Nuo 1,5 iki 3 metu;1;Lietuviu;37;0
+128;Traku Voke;6;Nuo 3 iki 4 metu;1;Lietuviu;22;0
+128;Traku Voke;7;Nuo 4 iki 5 metu;1;Lietuviu;25;0
+128;Traku Voke;8;Nuo 5 iki 6 metu;1;Lietuviu;26;0
+129;Zylute;3;Nuo 1,5 iki 3 metu;1;Lietuviu;19;0
+129;Zylute;8;Nuo 5 iki 6 metu;1;Lietuviu;41;0
+129;Zylute;9;Nuo 6 iki 7 metu;1;Lietuviu;1;4
+129;Zylute;10;Nuo 3 iki 5 metu;1;Lietuviu;20;0
+129;Zylute;18;Nuo 2 iki 4 metu;1;Lietuviu;21;0
+130;zelmeneliai;3;Nuo 1,5 iki 3 metu;1;Lietuviu;83;0
+130;zelmeneliai;7;Nuo 4 iki 5 metu;1;Lietuviu;37;0
+130;zelmeneliai;8;Nuo 5 iki 6 metu;1;Lietuviu;38;0
+130;zelmeneliai;11;Nuo 5 iki 7 metu;1;Lietuviu;41;0
+130;zelmeneliai;13;Nuo 4 iki 6 metu;1;Lietuviu;21;0
+130;zelmeneliai;18;Nuo 2 iki 4 metu;1;Lietuviu;52;0
+131;zemyna;3;Nuo 1,5 iki 3 metu;1;Lietuviu;38;42
+131;zemyna;4;Nuo 3 iki 7 metu;1;Lietuviu;0;26
+131;zemyna;6;Nuo 3 iki 4 metu;1;Lietuviu;46;12
+131;zemyna;7;Nuo 4 iki 5 metu;1;Lietuviu;69;3
+131;zemyna;8;Nuo 5 iki 6 metu;1;Lietuviu;46;0
+131;zemyna;11;Nuo 5 iki 7 metu;1;Lietuviu;69;0
+131;zemyna;28;Nuo 1 iki 7 metu;1;Lietuviu;0;1
+132;zemuogele;3;Nuo 1,5 iki 3 metu;1;Lietuviu;88;0
+132;zemuogele;6;Nuo 3 iki 4 metu;1;Lietuviu;5;0
+132;zemuogele;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+132;zemuogele;12;Nuo 2 iki 3 metu;1;Lietuviu;5;1
+132;zemuogele;13;Nuo 4 iki 6 metu;1;Lietuviu;20;0
+132;zemuogele;16;Nuo 4 iki 7 metu;1;Lietuviu;34;0
+132;zemuogele;18;Nuo 2 iki 4 metu;1;Lietuviu;22;0
+133;zibute;3;Nuo 1,5 iki 3 metu;1;Lietuviu;33;0
+133;zibute;6;Nuo 3 iki 4 metu;1;Lietuviu;20;0
+133;zibute;10;Nuo 3 iki 5 metu;1;Lietuviu;44;0
+133;zibute;11;Nuo 5 iki 7 metu;1;Lietuviu;23;0
+133;zibute;13;Nuo 4 iki 6 metu;1;Lietuviu;24;0
+134;ziedas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;34;0
+134;ziedas;6;Nuo 3 iki 4 metu;1;Lietuviu;23;0
+134;ziedas;7;Nuo 4 iki 5 metu;1;Lietuviu;51;0
+134;ziedas;8;Nuo 5 iki 6 metu;1;Lietuviu;46;0
+134;ziedas;11;Nuo 5 iki 7 metu;1;Lietuviu;48;0
+134;ziedas;16;Nuo 4 iki 7 metu;1;Lietuviu;12;8
+135;zilvitis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;79;0
+135;zilvitis;6;Nuo 3 iki 4 metu;1;Lietuviu;55;0
+135;zilvitis;7;Nuo 4 iki 5 metu;1;Lietuviu;69;0
+135;zilvitis;8;Nuo 5 iki 6 metu;1;Lietuviu;44;0
+135;zilvitis;11;Nuo 5 iki 7 metu;1;Lietuviu;42;3
+135;zilvitis;18;Nuo 2 iki 4 metu;1;Lietuviu;21;0
+136;zilvinelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;93;0
+136;zilvinelis;6;Nuo 3 iki 4 metu;1;Lietuviu;23;0
+136;zilvinelis;7;Nuo 4 iki 5 metu;1;Lietuviu;64;0
+136;zilvinelis;8;Nuo 5 iki 6 metu;1;Lietuviu;65;0
+136;zilvinelis;11;Nuo 5 iki 7 metu;1;Lietuviu;50;1
+137;ziogelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;88;0
+137;ziogelis;6;Nuo 3 iki 4 metu;1;Lietuviu;62;0
+137;ziogelis;7;Nuo 4 iki 5 metu;1;Lietuviu;45;0
+137;ziogelis;8;Nuo 5 iki 6 metu;1;Lietuviu;47;0
+137;ziogelis;11;Nuo 5 iki 7 metu;1;Lietuviu;46;0
+138;zolynelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;34;0
+138;zolynelis;7;Nuo 4 iki 5 metu;1;Lietuviu;22;0
+138;zolynelis;11;Nuo 5 iki 7 metu;1;Lietuviu;27;0
+138;zolynelis;13;Nuo 4 iki 6 metu;1;Lietuviu;24;0
+138;zolynelis;18;Nuo 2 iki 4 metu;1;Lietuviu;43;0
+138;zolynelis;19;Nuo 2 iki 5 metu;1;Lietuviu;6;0
+138;zolynelis;23;Nuo 1,5 iki 6 metu;1;Lietuviu;10;0
+139;zuvedra;10;Nuo 3 iki 5 metu;1;Lietuviu;25;1
+139;zuvedra;11;Nuo 5 iki 7 metu;1;Lietuviu;21;0
+140;zvangutis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;36;0
+140;zvangutis;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+140;zvangutis;8;Nuo 5 iki 6 metu;1;Lietuviu;23;0
+140;zvangutis;11;Nuo 5 iki 7 metu;1;Lietuviu;23;0
+140;zvangutis;12;Nuo 2 iki 3 metu;1;Lietuviu;16;0
+140;zvangutis;18;Nuo 2 iki 4 metu;1;Lietuviu;30;0
+141;zirniukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;35;0
+141;zirniukas;6;Nuo 3 iki 4 metu;1;Lietuviu;8;0
+141;zirniukas;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+141;zirniukas;8;Nuo 5 iki 6 metu;1;Lietuviu;41;0
+141;zirniukas;10;Nuo 3 iki 5 metu;1;Lietuviu;2;0
+141;zirniukas;11;Nuo 5 iki 7 metu;1;Lietuviu;26;0
+141;zirniukas;12;Nuo 2 iki 3 metu;1;Lietuviu;17;0
+141;zirniukas;18;Nuo 2 iki 4 metu;1;Lietuviu;20;0
+142;Ausra;6;Nuo 3 iki 4 metu;1;Lietuviu;48;0
+142;Ausra;7;Nuo 4 iki 5 metu;1;Lietuviu;24;0
+142;Ausra;11;Nuo 5 iki 7 metu;1;Lietuviu;50;0
+142;Ausra;20;Nuo 2 iki 6 metu;1;Lietuviu;23;0
+143;Berzelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;57;0
+143;Berzelis;6;Nuo 3 iki 4 metu;1;Lietuviu;0;0
+143;Berzelis;10;Nuo 3 iki 5 metu;1;Lietuviu;2;0
+143;Berzelis;12;Nuo 2 iki 3 metu;1;Lietuviu;18;0
+143;Berzelis;18;Nuo 2 iki 4 metu;1;Lietuviu;1;0
+143;Berzelis;19;Nuo 2 iki 5 metu;1;Lietuviu;21;0
+144;Peledziukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;77;0
+144;Peledziukas;7;Nuo 4 iki 5 metu;1;Lietuviu;22;0
+144;Peledziukas;8;Nuo 5 iki 6 metu;1;Lietuviu;24;1
+144;Peledziukas;10;Nuo 3 iki 5 metu;1;Lietuviu;2;0
+144;Peledziukas;11;Nuo 5 iki 7 metu;1;Lietuviu;22;0
+144;Peledziukas;18;Nuo 2 iki 4 metu;1;Lietuviu;43;0
+147;silelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;53;0
+147;silelis;6;Nuo 3 iki 4 metu;1;Lietuviu;6;0
+147;silelis;7;Nuo 4 iki 5 metu;1;Lietuviu;22;1
+147;silelis;8;Nuo 5 iki 6 metu;1;Lietuviu;20;0
+147;silelis;11;Nuo 5 iki 7 metu;1;Lietuviu;18;0
+147;silelis;16;Nuo 4 iki 7 metu;1;Lietuviu;16;0
+147;silelis;18;Nuo 2 iki 4 metu;1;Lietuviu;22;0
+149;Vaduvos;3;Nuo 1,5 iki 3 metu;1;Lietuviu;54;0
+149;Vaduvos;6;Nuo 3 iki 4 metu;1;Lietuviu;22;0
+149;Vaduvos;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+149;Vaduvos;8;Nuo 5 iki 6 metu;1;Lietuviu;20;0
+149;Vaduvos;11;Nuo 5 iki 7 metu;1;Lietuviu;43;0
+149;Vaduvos;16;Nuo 4 iki 7 metu;1;Lietuviu;10;1
+149;Vaduvos;18;Nuo 2 iki 4 metu;1;Lietuviu;5;0
+150;Vilkpedes;3;Nuo 1,5 iki 3 metu;1;Lietuviu;37;28
+150;Vilkpedes;7;Nuo 4 iki 5 metu;1;Lietuviu;23;3
+150;Vilkpedes;8;Nuo 5 iki 6 metu;1;Lietuviu;23;1
+150;Vilkpedes;11;Nuo 5 iki 7 metu;1;Lietuviu;23;0
+150;Vilkpedes;18;Nuo 2 iki 4 metu;1;Lietuviu;39;1
+151;ziburelis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;71;0
+151;ziburelis;4;Nuo 3 iki 7 metu;1;Lietuviu;23;0
+151;ziburelis;6;Nuo 3 iki 4 metu;1;Lietuviu;19;0
+151;ziburelis;7;Nuo 4 iki 5 metu;1;Lietuviu;23;0
+151;ziburelis;8;Nuo 5 iki 6 metu;1;Lietuviu;39;3
+151;ziburelis;11;Nuo 5 iki 7 metu;1;Lietuviu;19;0
+151;ziburelis;12;Nuo 2 iki 3 metu;1;Lietuviu;42;0
+151;ziburelis;18;Nuo 2 iki 4 metu;1;Lietuviu;16;0
+152;Justinukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;107;2
+152;Justinukas;6;Nuo 3 iki 4 metu;1;Lietuviu;9;0
+152;Justinukas;7;Nuo 4 iki 5 metu;1;Lietuviu;48;0
+152;Justinukas;8;Nuo 5 iki 6 metu;1;Lietuviu;67;0
+152;Justinukas;11;Nuo 5 iki 7 metu;1;Lietuviu;23;0
+152;Justinukas;18;Nuo 2 iki 4 metu;1;Lietuviu;65;0
+153;Aidas;4;Nuo 3 iki 7 metu;1;Lietuviu;7;0
+153;Aidas;15;Nuo 6 iki 8 metu;1;Lietuviu;9;0
+153;Aidas;45;Nuo 8m.;1;Lietuviu;62;0
+155;Gelynas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;65;0
+155;Gelynas;6;Nuo 3 iki 4 metu;1;Lietuviu;23;0
+155;Gelynas;11;Nuo 5 iki 7 metu;1;Lietuviu;25;0
+155;Gelynas;13;Nuo 4 iki 6 metu;1;Lietuviu;23;0
+155;Gelynas;14;Nuo 3 iki 6 metu;1;Lietuviu;23;0
+155;Gelynas;28;Nuo 1 iki 7 metu;1;Lietuviu;0;1
+156;Obelele;3;Nuo 1,5 iki 3 metu;1;Lietuviu;94;9
+156;Obelele;6;Nuo 3 iki 4 metu;1;Lietuviu;43;1
+156;Obelele;10;Nuo 3 iki 5 metu;1;Lietuviu;54;0
+156;Obelele;11;Nuo 5 iki 7 metu;1;Lietuviu;38;0
+156;Obelele;13;Nuo 4 iki 6 metu;1;Lietuviu;40;0
+156;Obelele;18;Nuo 2 iki 4 metu;1;Lietuviu;7;0
+156;Obelele;23;Nuo 1,5 iki 6 metu;1;Lietuviu;8;0
+157;Spygliukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;100;0
+157;Spygliukas;6;Nuo 3 iki 4 metu;1;Lietuviu;4;2
+157;Spygliukas;7;Nuo 4 iki 5 metu;1;Lietuviu;18;2
+157;Spygliukas;8;Nuo 5 iki 6 metu;1;Lietuviu;43;0
+157;Spygliukas;10;Nuo 3 iki 5 metu;1;Lietuviu;20;0
+157;Spygliukas;11;Nuo 5 iki 7 metu;1;Lietuviu;44;0
+157;Spygliukas;12;Nuo 2 iki 3 metu;1;Lietuviu;8;0
+157;Spygliukas;18;Nuo 2 iki 4 metu;1;Lietuviu;39;0
+158;Vieversys;3;Nuo 1,5 iki 3 metu;1;Lietuviu;79;0
+158;Vieversys;6;Nuo 3 iki 4 metu;1;Lietuviu;6;1
+158;Vieversys;7;Nuo 4 iki 5 metu;1;Lietuviu;42;0
+158;Vieversys;8;Nuo 5 iki 6 metu;1;Lietuviu;44;0
+158;Vieversys;11;Nuo 5 iki 7 metu;1;Lietuviu;69;0
+158;Vieversys;12;Nuo 2 iki 3 metu;1;Lietuviu;16;0
+158;Vieversys;18;Nuo 2 iki 4 metu;1;Lietuviu;54;0
+159;zirmuneliai;3;Nuo 1,5 iki 3 metu;1;Lietuviu;86;0
+159;zirmuneliai;7;Nuo 4 iki 5 metu;1;Lietuviu;42;0
+159;zirmuneliai;8;Nuo 5 iki 6 metu;1;Lietuviu;22;0
+159;zirmuneliai;9;Nuo 6 iki 7 metu;1;Lietuviu;0;1
+159;zirmuneliai;10;Nuo 3 iki 5 metu;1;Lietuviu;57;1
+159;zirmuneliai;11;Nuo 5 iki 7 metu;1;Lietuviu;65;0
+159;zirmuneliai;13;Nuo 4 iki 6 metu;1;Lietuviu;2;2
+159;zirmuneliai;18;Nuo 2 iki 4 metu;1;Lietuviu;42;0
+160;Dainoreliai;6;Nuo 3 iki 4 metu;1;Lietuviu;39;0
+160;Dainoreliai;7;Nuo 4 iki 5 metu;1;Lietuviu;22;0
+160;Dainoreliai;8;Nuo 5 iki 6 metu;1;Lietuviu;24;0
+160;Dainoreliai;9;Nuo 6 iki 7 metu;1;Lietuviu;1;1
+160;Dainoreliai;10;Nuo 3 iki 5 metu;1;Lietuviu;17;0
+160;Dainoreliai;11;Nuo 5 iki 7 metu;1;Lietuviu;43;0
+160;Dainoreliai;18;Nuo 2 iki 4 metu;1;Lietuviu;14;0
+163;Gabijele;3;Nuo 1,5 iki 3 metu;1;Lietuviu;80;0
+163;Gabijele;6;Nuo 3 iki 4 metu;1;Lietuviu;132;0
+163;Gabijele;7;Nuo 4 iki 5 metu;1;Lietuviu;69;0
+163;Gabijele;8;Nuo 5 iki 6 metu;1;Lietuviu;68;0
+163;Gabijele;9;Nuo 6 iki 7 metu;1;Lietuviu;3;0
+163;Gabijele;11;Nuo 5 iki 7 metu;1;Lietuviu;73;0
+164;Saulegraza;3;Nuo 1,5 iki 3 metu;1;Lietuviu;56;0
+164;Saulegraza;10;Nuo 3 iki 5 metu;1;Lietuviu;46;0
+164;Saulegraza;11;Nuo 5 iki 7 metu;1;Lietuviu;64;2
+164;Saulegraza;12;Nuo 2 iki 3 metu;1;Lietuviu;18;0
+164;Saulegraza;13;Nuo 4 iki 6 metu;1;Lietuviu;65;0
+164;Saulegraza;18;Nuo 2 iki 4 metu;1;Lietuviu;41;0
+165;Pilaitukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;85;0
+165;Pilaitukas;6;Nuo 3 iki 4 metu;1;Lietuviu;72;0
+165;Pilaitukas;7;Nuo 4 iki 5 metu;1;Lietuviu;47;0
+165;Pilaitukas;8;Nuo 5 iki 6 metu;1;Lietuviu;46;0
+165;Pilaitukas;11;Nuo 5 iki 7 metu;1;Lietuviu;65;0
+167;Vilniaus „Vilties“ specialioji mokykla-daugiafunkcinis centras;4;Nuo 3 iki 7 metu;1;Lietuviu;9;3
+169;svelnukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;29;0
+169;svelnukas;4;Nuo 3 iki 7 metu;1;Lietuviu;25;0
+169;svelnukas;6;Nuo 3 iki 4 metu;1;Lietuviu;29;0
+169;svelnukas;7;Nuo 4 iki 5 metu;1;Lietuviu;24;0
+169;svelnukas;8;Nuo 5 iki 6 metu;1;Lietuviu;23;0
+169;svelnukas;11;Nuo 5 iki 7 metu;1;Lietuviu;23;0
+170;Boruzele;3;Nuo 1,5 iki 3 metu;1;Lietuviu;68;0
+170;Boruzele;6;Nuo 3 iki 4 metu;1;Lietuviu;80;0
+170;Boruzele;7;Nuo 4 iki 5 metu;1;Lietuviu;44;0
+170;Boruzele;8;Nuo 5 iki 6 metu;1;Lietuviu;66;0
+170;Boruzele;11;Nuo 5 iki 7 metu;1;Lietuviu;51;0
+181;Volunge;3;Nuo 1,5 iki 3 metu;1;Lietuviu;67;3
+181;Volunge;8;Nuo 5 iki 6 metu;1;Lietuviu;21;0
+181;Volunge;10;Nuo 3 iki 5 metu;1;Lietuviu;0;0
+181;Volunge;11;Nuo 5 iki 7 metu;1;Lietuviu;46;0
+181;Volunge;13;Nuo 4 iki 6 metu;1;Lietuviu;1;2
+181;Volunge;14;Nuo 3 iki 6 metu;1;Lietuviu;3;0
+181;Volunge;18;Nuo 2 iki 4 metu;1;Lietuviu;31;3
+181;Volunge;19;Nuo 2 iki 5 metu;1;Lietuviu;42;0
+186;Giliukas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;69;1
+186;Giliukas;11;Nuo 5 iki 7 metu;1;Lietuviu;23;0
+186;Giliukas;12;Nuo 2 iki 3 metu;1;Lietuviu;3;0
+186;Giliukas;13;Nuo 4 iki 6 metu;1;Lietuviu;22;0
+186;Giliukas;18;Nuo 2 iki 4 metu;1;Lietuviu;2;0
+186;Giliukas;20;Nuo 2 iki 6 metu;1;Lietuviu;44;0
+188;Lazdynu mokykla;20;Nuo 2 iki 6 metu;1;Lietuviu;18;3
+189;VI Mazasis Trinapolis mok. 160 Eur;6;Nuo 3 iki 4 metu;1;Lietuviu;16;0
+189;VI Mazasis Trinapolis mok. 160 Eur;7;Nuo 4 iki 5 metu;1;Lietuviu;16;0
+189;VI Mazasis Trinapolis mok. 160 Eur;8;Nuo 5 iki 6 metu;1;Lietuviu;28;0
+189;VI Mazasis Trinapolis mok. 160 Eur;9;Nuo 6 iki 7 metu;1;Lietuviu;0;0
+189;VI Mazasis Trinapolis mok. 160 Eur;12;Nuo 2 iki 3 metu;1;Lietuviu;14;0
+189;VI Mazasis Trinapolis mok. 160 Eur;18;Nuo 2 iki 4 metu;1;Lietuviu;20;0
+273;Santariskiu;3;Nuo 1,5 iki 3 metu;1;Lietuviu;55;0
+273;Santariskiu;6;Nuo 3 iki 4 metu;1;Lietuviu;68;0
+273;Santariskiu;7;Nuo 4 iki 5 metu;1;Lietuviu;95;0
+273;Santariskiu;8;Nuo 5 iki 6 metu;1;Lietuviu;48;0
+273;Santariskiu;11;Nuo 5 iki 7 metu;1;Lietuviu;68;0
+280;Vilnios pagrindine mokykla;8;Nuo 5 iki 6 metu;1;Lietuviu;12;0
+280;Vilnios pagrindine mokykla;11;Nuo 5 iki 7 metu;1;Lietuviu;20;0
+280;Vilnios pagrindine mokykla;14;Nuo 3 iki 6 metu;1;Lietuviu;3;17
+280;Vilnios pagrindine mokykla;18;Nuo 2 iki 4 metu;1;Lietuviu;39;6
+283;„Atzalyno” mokykla-darzelis;6;Nuo 3 iki 4 metu;1;Lietuviu;1;0
+283;„Atzalyno” mokykla-darzelis;7;Nuo 4 iki 5 metu;1;Lietuviu;19;0
+283;„Atzalyno” mokykla-darzelis;9;Nuo 6 iki 7 metu;1;Lietuviu;4;0
+283;„Atzalyno” mokykla-darzelis;11;Nuo 5 iki 7 metu;1;Lietuviu;28;0
+283;„Atzalyno” mokykla-darzelis;12;Nuo 2 iki 3 metu;1;Lietuviu;36;0
+283;„Atzalyno” mokykla-darzelis;18;Nuo 2 iki 4 metu;1;Lietuviu;22;0
+311;Vilniaus Naujininku mokykla;11;Nuo 5 iki 7 metu;1;Lietuviu;11;4
+311;Vilniaus Naujininku mokykla;14;Nuo 3 iki 6 metu;1;Lietuviu;18;6
+311;Vilniaus Naujininku mokykla;16;Nuo 4 iki 7 metu;1;Lietuviu;21;0
+313;Vilniaus Taikos progimnazija;11;Nuo 5 iki 7 metu;1;Lietuviu;140;0
+314;Vilniaus Karaliaus Mindaugo pagrindine mokykla;16;Nuo 4 iki 7 metu;1;Lietuviu;101;10
+327;Azuolas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;38;0
+327;Azuolas;6;Nuo 3 iki 4 metu;1;Lietuviu;116;0
+327;Azuolas;7;Nuo 4 iki 5 metu;1;Lietuviu;84;0
+327;Azuolas;8;Nuo 5 iki 6 metu;1;Lietuviu;49;0
+327;Azuolas;11;Nuo 5 iki 7 metu;1;Lietuviu;24;0
+327;Azuolas;28;Nuo 1 iki 7 metu;1;Lietuviu;0;1
+335;Vilniaus Traku Vokes gimnazija;11;Nuo 5 iki 7 metu;1;Lietuviu;22;0
+335;Vilniaus Traku Vokes gimnazija;16;Nuo 4 iki 7 metu;1;Lietuviu;58;0
+337;Vilniaus Salininku gimnazija;11;Nuo 5 iki 7 metu;1;Lietuviu;86;5
+338;Vilniaus „Spindulio“ progimnazija;11;Nuo 5 iki 7 metu;1;Lietuviu;83;0
+338;Vilniaus „Spindulio“ progimnazija;16;Nuo 4 iki 7 metu;1;Lietuviu;21;0
+342;Vilniaus „Peledos” pradine mokykla;11;Nuo 5 iki 7 metu;1;Lietuviu;92;0
+373;Vilniaus Verkiu mokykla-daugiafunkcis centras;4;Nuo 3 iki 7 metu;1;Lietuviu;7;0
+373;Vilniaus Verkiu mokykla-daugiafunkcis centras;9;Nuo 6 iki 7 metu;1;Lietuviu;0;7
+373;Vilniaus Verkiu mokykla-daugiafunkcis centras;14;Nuo 3 iki 6 metu;1;Lietuviu;0;7
+374;Vilniaus Sausio 13-osios mokykla;16;Nuo 4 iki 7 metu;1;Lietuviu;63;29
+376;Vilniaus Virsuliskiu mokykla;16;Nuo 4 iki 7 metu;1;Lietuviu;38;7
+377;Gluosnis;3;Nuo 1,5 iki 3 metu;1;Lietuviu;50;0
+377;Gluosnis;6;Nuo 3 iki 4 metu;1;Lietuviu;51;0
+377;Gluosnis;8;Nuo 5 iki 6 metu;1;Lietuviu;20;0
+377;Gluosnis;10;Nuo 3 iki 5 metu;1;Lietuviu;67;0
+377;Gluosnis;11;Nuo 5 iki 7 metu;1;Lietuviu;22;0
+377;Gluosnis;13;Nuo 4 iki 6 metu;1;Lietuviu;21;0
+377;Gluosnis;16;Nuo 4 iki 7 metu;1;Lietuviu;5;0
+381;Vilniaus Simono Staneviciaus progimnazija;11;Nuo 5 iki 7 metu;1;Lietuviu;79;5
+384;Vilniaus Maironio progimnazija;11;Nuo 5 iki 7 metu;1;Lietuviu;53;9
+384;Vilniaus Maironio progimnazija;16;Nuo 4 iki 7 metu;1;Lietuviu;23;0
+388;zolynas;3;Nuo 1,5 iki 3 metu;1;Lietuviu;74;0
+388;zolynas;11;Nuo 5 iki 7 metu;1;Lietuviu;23;0
+388;zolynas;13;Nuo 4 iki 6 metu;1;Lietuviu;21;0
+388;zolynas;18;Nuo 2 iki 4 metu;1;Lietuviu;71;0
+388;zolynas;28;Nuo 1 iki 7 metu;1;Lietuviu;1;0
+389;Vilniaus „Genio“ progimnazija;9;Nuo 6 iki 7 metu;1;Lietuviu;21;0
+389;Vilniaus „Genio“ progimnazija;11;Nuo 5 iki 7 metu;1;Lietuviu;21;0
+597;Gintarelis (Popieriaus g. 46A);14;Nuo 3 iki 6 metu;1;Lietuviu;3;0
+597;Gintarelis (Popieriaus g. 46A);20;Nuo 2 iki 6 metu;1;Lietuviu;20;0
+667;Pusynelis (A. Mickeviciaus g. 21);3;Nuo 1,5 iki 3 metu;1;Lietuviu;33;0
+667;Pusynelis (A. Mickeviciaus g. 21);7;Nuo 4 iki 5 metu;1;Lietuviu;22;0
+667;Pusynelis (A. Mickeviciaus g. 21);11;Nuo 5 iki 7 metu;1;Lietuviu;25;0
+667;Pusynelis (A. Mickeviciaus g. 21);18;Nuo 2 iki 4 metu;1;Lietuviu;22;0
+668;Naminukas (Kliniku g. 5);3;Nuo 1,5 iki 3 metu;1;Lietuviu;33;0
+668;Naminukas (Kliniku g. 5);7;Nuo 4 iki 5 metu;1;Lietuviu;22;0
+668;Naminukas (Kliniku g. 5);11;Nuo 5 iki 7 metu;1;Lietuviu;24;0
+668;Naminukas (Kliniku g. 5);18;Nuo 2 iki 4 metu;1;Lietuviu;23;0
+669;Gervele (Stadiono g. 5);4;Nuo 3 iki 7 metu;1;Lietuviu;22;0
+39;Coliuke;4;Nuo 3 iki 7 metu;2;Rusu;42;8
+41;Daigelis;3;Nuo 1,5 iki 3 metu;2;Rusu;65;0
+41;Daigelis;4;Nuo 3 iki 7 metu;2;Rusu;7;0
+41;Daigelis;6;Nuo 3 iki 4 metu;2;Rusu;41;0
+41;Daigelis;7;Nuo 4 iki 5 metu;2;Rusu;2;0
+41;Daigelis;10;Nuo 3 iki 5 metu;2;Rusu;38;4
+41;Daigelis;16;Nuo 4 iki 7 metu;2;Rusu;17;0
+51;Gelvonelis;3;Nuo 1,5 iki 3 metu;2;Rusu;31;0
+51;Gelvonelis;7;Nuo 4 iki 5 metu;2;Rusu;19;0
+51;Gelvonelis;8;Nuo 5 iki 6 metu;2;Rusu;18;0
+51;Gelvonelis;11;Nuo 5 iki 7 metu;2;Rusu;20;0
+51;Gelvonelis;16;Nuo 4 iki 7 metu;2;Rusu;4;1
+51;Gelvonelis;18;Nuo 2 iki 4 metu;2;Rusu;23;0
+52;Gervele (Dzuku g. 32);4;Nuo 3 iki 7 metu;2;Rusu;24;8
+59;Karusele;3;Nuo 1,5 iki 3 metu;2;Rusu;63;0
+59;Karusele;6;Nuo 3 iki 4 metu;2;Rusu;31;3
+59;Karusele;7;Nuo 4 iki 5 metu;2;Rusu;23;0
+59;Karusele;8;Nuo 5 iki 6 metu;2;Rusu;22;0
+59;Karusele;11;Nuo 5 iki 7 metu;2;Rusu;21;0
+60;Kastonas;14;Nuo 3 iki 6 metu;2;Rusu;22;5
+64;Kurpaite;3;Nuo 1,5 iki 3 metu;2;Rusu;29;0
+64;Kurpaite;7;Nuo 4 iki 5 metu;2;Rusu;1;0
+64;Kurpaite;11;Nuo 5 iki 7 metu;2;Rusu;17;3
+64;Kurpaite;13;Nuo 4 iki 6 metu;2;Rusu;23;0
+64;Kurpaite;18;Nuo 2 iki 4 metu;2;Rusu;21;0
+65;Kulverstukas (Suvalku g. 6);3;Nuo 1,5 iki 3 metu;2;Rusu;31;0
+65;Kulverstukas (Suvalku g. 6);7;Nuo 4 iki 5 metu;2;Rusu;22;0
+65;Kulverstukas (Suvalku g. 6);11;Nuo 5 iki 7 metu;2;Rusu;22;0
+65;Kulverstukas (Suvalku g. 6);18;Nuo 2 iki 4 metu;2;Rusu;23;0
+67;Laselis;1;Iki 1,5 metu;2;Rusu;23;4
+67;Laselis;3;Nuo 1,5 iki 3 metu;2;Rusu;24;3
+67;Laselis;7;Nuo 4 iki 5 metu;2;Rusu;16;0
+67;Laselis;8;Nuo 5 iki 6 metu;2;Rusu;16;0
+67;Laselis;12;Nuo 2 iki 3 metu;2;Rusu;21;8
+67;Laselis;18;Nuo 2 iki 4 metu;2;Rusu;19;0
+69;Liepsnele;3;Nuo 1,5 iki 3 metu;2;Rusu;50;8
+69;Liepsnele;7;Nuo 4 iki 5 metu;2;Rusu;2;4
+69;Liepsnele;8;Nuo 5 iki 6 metu;2;Rusu;20;2
+69;Liepsnele;13;Nuo 4 iki 6 metu;2;Rusu;22;0
+69;Liepsnele;18;Nuo 2 iki 4 metu;2;Rusu;22;1
+87;Paslaptis;3;Nuo 1,5 iki 3 metu;2;Rusu;16;0
+87;Paslaptis;10;Nuo 3 iki 5 metu;2;Rusu;23;0
+87;Paslaptis;16;Nuo 4 iki 7 metu;2;Rusu;24;0
+87;Paslaptis;18;Nuo 2 iki 4 metu;2;Rusu;7;0
+90;Pelene;3;Nuo 1,5 iki 3 metu;2;Rusu;48;0
+90;Pelene;6;Nuo 3 iki 4 metu;2;Rusu;24;0
+90;Pelene;8;Nuo 5 iki 6 metu;2;Rusu;24;0
+90;Pelene;9;Nuo 6 iki 7 metu;2;Rusu;2;0
+90;Pelene;11;Nuo 5 iki 7 metu;2;Rusu;22;0
+90;Pelene;18;Nuo 2 iki 4 metu;2;Rusu;3;0
+90;Pelene;19;Nuo 2 iki 5 metu;2;Rusu;21;0
+92;Prie pasaku parko;3;Nuo 1,5 iki 3 metu;2;Rusu;23;8
+92;Prie pasaku parko;6;Nuo 3 iki 4 metu;2;Rusu;1;5
+92;Prie pasaku parko;7;Nuo 4 iki 5 metu;2;Rusu;19;0
+92;Prie pasaku parko;10;Nuo 3 iki 5 metu;2;Rusu;33;7
+92;Prie pasaku parko;11;Nuo 5 iki 7 metu;2;Rusu;11;4
+92;Prie pasaku parko;12;Nuo 2 iki 3 metu;2;Rusu;25;0
+97;Raktelis;3;Nuo 1,5 iki 3 metu;2;Rusu;29;0
+97;Raktelis;10;Nuo 3 iki 5 metu;2;Rusu;25;0
+97;Raktelis;16;Nuo 4 iki 7 metu;2;Rusu;23;0
+99;Rugelis;13;Nuo 4 iki 6 metu;2;Rusu;25;0
+99;Rugelis;18;Nuo 2 iki 4 metu;2;Rusu;27;5
+102;Ramunele;3;Nuo 1,5 iki 3 metu;2;Rusu;17;13
+102;Ramunele;10;Nuo 3 iki 5 metu;2;Rusu;21;3
+102;Ramunele;11;Nuo 5 iki 7 metu;2;Rusu;23;0
+108;Sauletekis;3;Nuo 1,5 iki 3 metu;2;Rusu;18;0
+108;Sauletekis;4;Nuo 3 iki 7 metu;2;Rusu;8;0
+108;Sauletekis;7;Nuo 4 iki 5 metu;2;Rusu;23;0
+108;Sauletekis;11;Nuo 5 iki 7 metu;2;Rusu;23;0
+112;Spragtukas;3;Nuo 1,5 iki 3 metu;2;Rusu;19;16
+112;Spragtukas;6;Nuo 3 iki 4 metu;2;Rusu;18;1
+112;Spragtukas;8;Nuo 5 iki 6 metu;2;Rusu;20;1
+112;Spragtukas;11;Nuo 5 iki 7 metu;2;Rusu;19;0
+112;Spragtukas;18;Nuo 2 iki 4 metu;2;Rusu;21;0
+114;Sveikuolis;3;Nuo 1,5 iki 3 metu;2;Rusu;96;5
+114;Sveikuolis;6;Nuo 3 iki 4 metu;2;Rusu;5;0
+114;Sveikuolis;7;Nuo 4 iki 5 metu;2;Rusu;41;0
+114;Sveikuolis;8;Nuo 5 iki 6 metu;2;Rusu;42;0
+114;Sveikuolis;11;Nuo 5 iki 7 metu;2;Rusu;58;1
+114;Sveikuolis;13;Nuo 4 iki 6 metu;2;Rusu;1;0
+114;Sveikuolis;18;Nuo 2 iki 4 metu;2;Rusu;40;1
+115;sermuksnele;3;Nuo 1,5 iki 3 metu;2;Rusu;29;0
+115;sermuksnele;10;Nuo 3 iki 5 metu;2;Rusu;21;0
+115;sermuksnele;11;Nuo 5 iki 7 metu;2;Rusu;23;0
+122;Vejelis;11;Nuo 5 iki 7 metu;2;Rusu;24;0
+122;Vejelis;13;Nuo 4 iki 6 metu;2;Rusu;25;0
+122;Vejelis;16;Nuo 4 iki 7 metu;2;Rusu;6;0
+122;Vejelis;18;Nuo 2 iki 4 metu;2;Rusu;26;0
+123;Vetrunge;3;Nuo 1,5 iki 3 metu;2;Rusu;30;0
+125;Verinelis;3;Nuo 1,5 iki 3 metu;2;Rusu;38;0
+125;Verinelis;10;Nuo 3 iki 5 metu;2;Rusu;21;0
+125;Verinelis;11;Nuo 5 iki 7 metu;2;Rusu;22;0
+125;Verinelis;13;Nuo 4 iki 6 metu;2;Rusu;21;0
+125;Verinelis;18;Nuo 2 iki 4 metu;2;Rusu;23;0
+129;Zylute;3;Nuo 1,5 iki 3 metu;2;Rusu;30;0
+129;Zylute;6;Nuo 3 iki 4 metu;2;Rusu;22;0
+129;Zylute;7;Nuo 4 iki 5 metu;2;Rusu;22;0
+129;Zylute;8;Nuo 5 iki 6 metu;2;Rusu;21;0
+132;zemuogele;3;Nuo 1,5 iki 3 metu;2;Rusu;28;0
+132;zemuogele;10;Nuo 3 iki 5 metu;2;Rusu;22;0
+132;zemuogele;11;Nuo 5 iki 7 metu;2;Rusu;21;0
+134;ziedas;3;Nuo 1,5 iki 3 metu;2;Rusu;33;0
+134;ziedas;6;Nuo 3 iki 4 metu;2;Rusu;25;0
+134;ziedas;13;Nuo 4 iki 6 metu;2;Rusu;25;0
+139;zuvedra;3;Nuo 1,5 iki 3 metu;2;Rusu;30;0
+139;zuvedra;10;Nuo 3 iki 5 metu;2;Rusu;23;0
+139;zuvedra;11;Nuo 5 iki 7 metu;2;Rusu;23;0
+141;zirniukas;4;Nuo 3 iki 7 metu;2;Rusu;22;0
+143;Berzelis;3;Nuo 1,5 iki 3 metu;2;Rusu;54;0
+143;Berzelis;6;Nuo 3 iki 4 metu;2;Rusu;27;0
+143;Berzelis;7;Nuo 4 iki 5 metu;2;Rusu;21;0
+143;Berzelis;8;Nuo 5 iki 6 metu;2;Rusu;23;0
+143;Berzelis;9;Nuo 6 iki 7 metu;2;Rusu;2;0
+143;Berzelis;11;Nuo 5 iki 7 metu;2;Rusu;23;0
+145;Saulute;3;Nuo 1,5 iki 3 metu;2;Rusu;39;0
+145;Saulute;4;Nuo 3 iki 7 metu;2;Rusu;24;0
+145;Saulute;6;Nuo 3 iki 4 metu;2;Rusu;23;0
+145;Saulute;7;Nuo 4 iki 5 metu;2;Rusu;23;0
+145;Saulute;8;Nuo 5 iki 6 metu;2;Rusu;24;0
+145;Saulute;11;Nuo 5 iki 7 metu;2;Rusu;22;0
+146;Svaja;6;Nuo 3 iki 4 metu;2;Rusu;39;2
+146;Svaja;7;Nuo 4 iki 5 metu;2;Rusu;24;0
+146;Svaja;8;Nuo 5 iki 6 metu;2;Rusu;23;0
+146;Svaja;11;Nuo 5 iki 7 metu;2;Rusu;66;0
+147;silelis;3;Nuo 1,5 iki 3 metu;2;Rusu;30;0
+147;silelis;4;Nuo 3 iki 7 metu;2;Rusu;11;6
+147;silelis;6;Nuo 3 iki 4 metu;2;Rusu;3;0
+147;silelis;7;Nuo 4 iki 5 metu;2;Rusu;21;1
+147;silelis;8;Nuo 5 iki 6 metu;2;Rusu;21;0
+147;silelis;9;Nuo 6 iki 7 metu;2;Rusu;0;8
+147;silelis;18;Nuo 2 iki 4 metu;2;Rusu;23;0
+148;Vaivorykste;6;Nuo 3 iki 4 metu;2;Rusu;53;41
+148;Vaivorykste;7;Nuo 4 iki 5 metu;2;Rusu;51;1
+148;Vaivorykste;8;Nuo 5 iki 6 metu;2;Rusu;48;0
+148;Vaivorykste;11;Nuo 5 iki 7 metu;2;Rusu;66;0
+148;Vaivorykste;16;Nuo 4 iki 7 metu;2;Rusu;2;15
+154;Bangele;3;Nuo 1,5 iki 3 metu;2;Rusu;48;15
+154;Bangele;6;Nuo 3 iki 4 metu;2;Rusu;0;5
+154;Bangele;7;Nuo 4 iki 5 metu;2;Rusu;22;0
+154;Bangele;8;Nuo 5 iki 6 metu;2;Rusu;24;5
+154;Bangele;10;Nuo 3 iki 5 metu;2;Rusu;22;0
+154;Bangele;11;Nuo 5 iki 7 metu;2;Rusu;24;1
+161;Lokiukas;3;Nuo 1,5 iki 3 metu;2;Rusu;31;0
+161;Lokiukas;6;Nuo 3 iki 4 metu;2;Rusu;6;0
+161;Lokiukas;7;Nuo 4 iki 5 metu;2;Rusu;24;0
+161;Lokiukas;8;Nuo 5 iki 6 metu;2;Rusu;25;0
+161;Lokiukas;9;Nuo 6 iki 7 metu;2;Rusu;6;0
+161;Lokiukas;11;Nuo 5 iki 7 metu;2;Rusu;40;0
+161;Lokiukas;18;Nuo 2 iki 4 metu;2;Rusu;23;0
+165;Pilaitukas;4;Nuo 3 iki 7 metu;2;Rusu;22;0
+166;Vilija;4;Nuo 3 iki 7 metu;2;Rusu;20;0
+188;Lazdynu mokykla;16;Nuo 4 iki 7 metu;2;Rusu;33;0
+331;Vilniaus Levo Karsavino vidurine mokykla;11;Nuo 5 iki 7 metu;2;Rusu;74;0
+332;Vilniaus Liepkalnio Pagrindine Mokykla;11;Nuo 5 iki 7 metu;2;Rusu;41;0
+333;Vilniaus Pranciskaus Skorinos gimnazija;16;Nuo 4 iki 7 metu;2;Rusu;29;6
+369;Vilniaus Joachimo Lelevelio inzinerijos mokykla;11;Nuo 5 iki 7 metu;2;Rusu;30;0
+375;Vilniaus savivaldybes Grigiskiu gimnazija;11;Nuo 5 iki 7 metu;2;Rusu;19;21
+375;Vilniaus savivaldybes Grigiskiu gimnazija;16;Nuo 4 iki 7 metu;2;Rusu;27;0
+378;Vilniaus Aleksandro Puskino mokykla;11;Nuo 5 iki 7 metu;2;Rusu;30;0
+378;Vilniaus Aleksandro Puskino mokykla;16;Nuo 4 iki 7 metu;2;Rusu;40;0
+380;Vilniaus Ateities mokykla;11;Nuo 5 iki 7 metu;2;Rusu;48;6
+380;Vilniaus Ateities mokykla;16;Nuo 4 iki 7 metu;2;Rusu;17;0
+383;Vilniaus Sauletekio mokykla-daugiafunkcinis centras;8;Nuo 5 iki 6 metu;2;Rusu;23;0
+383;Vilniaus Sauletekio mokykla-daugiafunkcinis centras;11;Nuo 5 iki 7 metu;2;Rusu;72;0
+597;Gintarelis (Popieriaus g. 46A);4;Nuo 3 iki 7 metu;2;Rusu;2;1
+597;Gintarelis (Popieriaus g. 46A);16;Nuo 4 iki 7 metu;2;Rusu;16;0
+597;Gintarelis (Popieriaus g. 46A);18;Nuo 2 iki 4 metu;2;Rusu;19;0
+669;Gervele (Stadiono g. 5);3;Nuo 1,5 iki 3 metu;2;Rusu;21;3
+669;Gervele (Stadiono g. 5);10;Nuo 3 iki 5 metu;2;Rusu;25;2
+669;Gervele (Stadiono g. 5);11;Nuo 5 iki 7 metu;2;Rusu;24;3
+670;Kulverstukas (Mindaugo g. 7);3;Nuo 1,5 iki 3 metu;2;Rusu;31;0
+670;Kulverstukas (Mindaugo g. 7);4;Nuo 3 iki 7 metu;2;Rusu;47;0
+670;Kulverstukas (Mindaugo g. 7);10;Nuo 3 iki 5 metu;2;Rusu;2;1
+670;Kulverstukas (Mindaugo g. 7);11;Nuo 5 iki 7 metu;2;Rusu;3;0
+670;Kulverstukas (Mindaugo g. 7);18;Nuo 2 iki 4 metu;2;Rusu;2;1
+670;Kulverstukas (Mindaugo g. 7);20;Nuo 2 iki 6 metu;2;Rusu;3;0
+39;Coliuke;4;Nuo 3 iki 7 metu;4;Lenku;21;0
+39;Coliuke;20;Nuo 2 iki 6 metu;4;Lenku;0;10
+51;Gelvonelis;4;Nuo 3 iki 7 metu;4;Lenku;19;2
+54;Gintarelis (Didlaukio g. 35);3;Nuo 1,5 iki 3 metu;4;Lenku;17;0
+59;Karusele;14;Nuo 3 iki 6 metu;4;Lenku;26;3
+60;Kastonas;3;Nuo 1,5 iki 3 metu;4;Lenku;15;10
+60;Kastonas;10;Nuo 3 iki 5 metu;4;Lenku;23;0
+60;Kastonas;11;Nuo 5 iki 7 metu;4;Lenku;25;3
+60;Kastonas;19;Nuo 2 iki 5 metu;4;Lenku;2;15
+82;Pakalnute;19;Nuo 2 iki 5 metu;4;Lenku;16;0
+92;Prie pasaku parko;3;Nuo 1,5 iki 3 metu;4;Lenku;26;2
+92;Prie pasaku parko;10;Nuo 3 iki 5 metu;4;Lenku;28;7
+92;Prie pasaku parko;11;Nuo 5 iki 7 metu;4;Lenku;6;6
+97;Raktelis;3;Nuo 1,5 iki 3 metu;4;Lenku;81;0
+97;Raktelis;6;Nuo 3 iki 4 metu;4;Lenku;23;0
+97;Raktelis;7;Nuo 4 iki 5 metu;4;Lenku;24;0
+97;Raktelis;8;Nuo 5 iki 6 metu;4;Lenku;23;0
+97;Raktelis;10;Nuo 3 iki 5 metu;4;Lenku;24;0
+97;Raktelis;11;Nuo 5 iki 7 metu;4;Lenku;24;0
+99;Rugelis;20;Nuo 2 iki 6 metu;4;Lenku;22;0
+102;Ramunele;16;Nuo 4 iki 7 metu;4;Lenku;20;0
+102;Ramunele;18;Nuo 2 iki 4 metu;4;Lenku;24;9
+112;Spragtukas;20;Nuo 2 iki 6 metu;4;Lenku;22;0
+114;Sveikuolis;23;Nuo 1,5 iki 6 metu;4;Lenku;0;0
+115;sermuksnele;23;Nuo 1,5 iki 6 metu;4;Lenku;0;0
+116;sypsena;3;Nuo 1,5 iki 3 metu;4;Lenku;49;0
+116;sypsena;6;Nuo 3 iki 4 metu;4;Lenku;20;0
+116;sypsena;7;Nuo 4 iki 5 metu;4;Lenku;24;0
+116;sypsena;8;Nuo 5 iki 6 metu;4;Lenku;18;0
+116;sypsena;10;Nuo 3 iki 5 metu;4;Lenku;2;0
+116;sypsena;11;Nuo 5 iki 7 metu;4;Lenku;21;2
+116;sypsena;12;Nuo 2 iki 3 metu;4;Lenku;10;0
+122;Vejelis;3;Nuo 1,5 iki 3 metu;4;Lenku;37;0
+122;Vejelis;13;Nuo 4 iki 6 metu;4;Lenku;22;0
+122;Vejelis;18;Nuo 2 iki 4 metu;4;Lenku;20;0
+125;Verinelis;10;Nuo 3 iki 5 metu;4;Lenku;21;0
+125;Verinelis;11;Nuo 5 iki 7 metu;4;Lenku;21;0
+125;Verinelis;18;Nuo 2 iki 4 metu;4;Lenku;21;0
+129;Zylute;16;Nuo 4 iki 7 metu;4;Lenku;23;0
+129;Zylute;18;Nuo 2 iki 4 metu;4;Lenku;24;3
+134;ziedas;3;Nuo 1,5 iki 3 metu;4;Lenku;23;0
+134;ziedas;14;Nuo 3 iki 6 metu;4;Lenku;23;0
+137;ziogelis;4;Nuo 3 iki 7 metu;4;Lenku;21;0
+137;ziogelis;23;Nuo 1,5 iki 6 metu;4;Lenku;5;0
+139;zuvedra;3;Nuo 1,5 iki 3 metu;4;Lenku;33;0
+143;Berzelis;3;Nuo 1,5 iki 3 metu;4;Lenku;18;0
+143;Berzelis;18;Nuo 2 iki 4 metu;4;Lenku;2;1
+145;Saulute;3;Nuo 1,5 iki 3 metu;4;Lenku;29;0
+145;Saulute;4;Nuo 3 iki 7 metu;4;Lenku;19;0
+145;Saulute;18;Nuo 2 iki 4 metu;4;Lenku;20;0
+147;silelis;14;Nuo 3 iki 6 metu;4;Lenku;18;0
+154;Bangele;3;Nuo 1,5 iki 3 metu;4;Lenku;35;0
+154;Bangele;6;Nuo 3 iki 4 metu;4;Lenku;24;4
+154;Bangele;7;Nuo 4 iki 5 metu;4;Lenku;1;1
+154;Bangele;10;Nuo 3 iki 5 metu;4;Lenku;23;0
+154;Bangele;11;Nuo 5 iki 7 metu;4;Lenku;2;0
+154;Bangele;16;Nuo 4 iki 7 metu;4;Lenku;22;0
+162;saltinelis;3;Nuo 1,5 iki 3 metu;4;Lenku;49;0
+162;saltinelis;6;Nuo 3 iki 4 metu;4;Lenku;32;1
+162;saltinelis;7;Nuo 4 iki 5 metu;4;Lenku;23;0
+162;saltinelis;8;Nuo 5 iki 6 metu;4;Lenku;22;0
+162;saltinelis;9;Nuo 6 iki 7 metu;4;Lenku;3;0
+162;saltinelis;11;Nuo 5 iki 7 metu;4;Lenku;55;3
+162;saltinelis;18;Nuo 2 iki 4 metu;4;Lenku;20;0
+165;Pilaitukas;3;Nuo 1,5 iki 3 metu;4;Lenku;29;0
+165;Pilaitukas;4;Nuo 3 iki 7 metu;4;Lenku;21;0
+166;Vilija;3;Nuo 1,5 iki 3 metu;4;Lenku;54;0
+166;Vilija;6;Nuo 3 iki 4 metu;4;Lenku;65;0
+166;Vilija;7;Nuo 4 iki 5 metu;4;Lenku;68;0
+166;Vilija;8;Nuo 5 iki 6 metu;4;Lenku;58;0
+166;Vilija;9;Nuo 6 iki 7 metu;4;Lenku;6;0
+166;Vilija;11;Nuo 5 iki 7 metu;4;Lenku;58;0
+166;Vilija;12;Nuo 2 iki 3 metu;4;Lenku;18;0
+166;Vilija;18;Nuo 2 iki 4 metu;4;Lenku;34;0
+171;zaliakalnio;6;Nuo 3 iki 4 metu;4;Lenku;22;0
+171;zaliakalnio;7;Nuo 4 iki 5 metu;4;Lenku;23;0
+171;zaliakalnio;8;Nuo 5 iki 6 metu;4;Lenku;22;0
+171;zaliakalnio;11;Nuo 5 iki 7 metu;4;Lenku;37;0
+171;zaliakalnio;16;Nuo 4 iki 7 metu;4;Lenku;10;1
+171;zaliakalnio;18;Nuo 2 iki 4 metu;4;Lenku;65;0
+188;Lazdynu mokykla;16;Nuo 4 iki 7 metu;4;Lenku;27;5
+188;Lazdynu mokykla;20;Nuo 2 iki 6 metu;4;Lenku;24;0
+334;Vilniaus Simono Konarskio mokykla;11;Nuo 5 iki 7 metu;4;Lenku;26;10
+339;Vilniaus Vladislavo Sirokomles gimnazija;11;Nuo 5 iki 7 metu;4;Lenku;42;0
+339;Vilniaus Vladislavo Sirokomles gimnazija;16;Nuo 4 iki 7 metu;4;Lenku;15;0
+369;Vilniaus Joachimo Lelevelio inzinerijos mokykla;11;Nuo 5 iki 7 metu;4;Lenku;30;0
+370;Vilniaus Juzefo Ignacijaus Krasevskio gimnazija;11;Nuo 5 iki 7 metu;4;Lenku;0;20
+370;Vilniaus Juzefo Ignacijaus Krasevskio gimnazija;16;Nuo 4 iki 7 metu;4;Lenku;35;5
+371;Vilniaus Jono Pauliaus II progimnazija;11;Nuo 5 iki 7 metu;4;Lenku;108;0
+371;Vilniaus Jono Pauliaus II progimnazija;16;Nuo 4 iki 7 metu;4;Lenku;22;0
+375;Vilniaus savivaldybes Grigiskiu gimnazija;11;Nuo 5 iki 7 metu;4;Lenku;6;14
+375;Vilniaus savivaldybes Grigiskiu gimnazija;16;Nuo 4 iki 7 metu;4;Lenku;11;0
+597;Gintarelis (Popieriaus g. 46A);3;Nuo 1,5 iki 3 metu;4;Lenku;15;0
+597;Gintarelis (Popieriaus g. 46A);18;Nuo 2 iki 4 metu;4;Lenku;4;0
+107;Salvija;16;Nuo 4 iki 7 metu;8;Hebraju;26;0
+107;Salvija;18;Nuo 2 iki 4 metu;8;Hebraju;32;0

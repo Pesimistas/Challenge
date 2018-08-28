@@ -15,7 +15,8 @@ namespace Challenge
 
             List<DataRow> dataList = new List<DataRow>();
 
-            using (TextFieldParser csvParser = new TextFieldParser(@"C:\Users\User\Desktop\data.csv"))
+
+            using (TextFieldParser csvParser = new TextFieldParser(@"C:\Users\User\source\repos\Challenge\data.csv"))
             {
 
                 csvParser.SetDelimiters(new string[] { "," });
