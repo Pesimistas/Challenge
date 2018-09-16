@@ -142,6 +142,7 @@ namespace Challenge
                 freeSpace = p8;
 
             }
+         
 
         }
         public class KinderGarden

@@ -1,3 +1,6 @@
+Su max
+Kod_1,5-3_Liet
+Su min
 Ait_1,5-7_Liet
 At?_1-7_Liet
 Bit_1-7_Liet
